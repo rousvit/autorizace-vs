@@ -143,9 +143,16 @@ export function daysUntil(iso) {
 export function toast(message, action) {
   const root = document.getElementById('toast-root');
   const el = h('div', { class: 'toast', role: 'status' }, h('span', null, message));
-  if (action) el.append(h('button', { onclick: () => { action.run(); el.remove(); } }, action.label));
+  if (action) {
+    // nabídka s akcí (např. aktualizace) zůstane, dokud ji uživatel nepoužije nebo nezavře
+    el.append(
+      h('button', { onclick: () => { action.run(); el.remove(); } }, action.label),
+      h('button', { 'aria-label': 'Zavřít', onclick: () => el.remove() }, '✕'));
+    root.append(el);
+    return;
+  }
   root.append(el);
-  setTimeout(() => el.remove(), action ? 9000 : 3200);
+  setTimeout(() => el.remove(), 3200);
 }
 
 let openSheetClose = null;
