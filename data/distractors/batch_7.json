@@ -1,0 +1,538 @@
+[
+  {
+    "id": "I1",
+    "d": [
+      "je povinen zajišťovat bezpečnost a ochranu zdraví při práci pouze svých zaměstnanců, kteří u něj vykonávají práci v pracovním poměru",
+      "je povinen zajišťovat bezpečnost a ochranu zdraví při práci jiných osob na svém pracovišti jen na základě písemné dohody s nimi"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I2",
+    "d": [
+      "jsou povinni písemnou dohodou určit jednoho z nich, který převezme odpovědnost za bezpečnost a ochranu zdraví při práci všech zaměstnanců, plní-li na jednom pracovišti úkoly zaměstnanci dvou a více zaměstnavatelů",
+      "jsou povinni předem ohlásit oblastnímu inspektorátu práce rizika a přijatá opatření k ochraně před jejich působením, plní-li na jednom pracovišti úkoly zaměstnanci dvou a více zaměstnavatelů"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I3",
+    "d": [
+      "vyhotovuje záznamy a vede dokumentaci o všech pracovních úrazech, jejichž následkem došlo ke zranění zaměstnance s pracovní neschopností delší než pět kalendářních dnů, nebo k úmrtí zaměstnance",
+      "vyhotovuje záznamy a vede dokumentaci pouze o pracovních úrazech, jejichž následkem došlo k hospitalizaci zaměstnance delší než 5 dnů, nebo k úmrtí zaměstnance"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I5",
+    "d": [
+      "svářeči",
+      "tesaři"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I6",
+    "d": [
+      "poskytovat koordinátorovi součinnost potřebnou pro plnění jeho úkolů pouze po dobu realizace stavby, nikoli při její přípravě.",
+      "určit koordinátora bezpečnosti a ochrany zdraví při práci na staveništi a zajistit jeho součinnost po celou dobu realizace stavby."
+    ],
+    "note": ""
+  },
+  {
+    "id": "I7",
+    "d": [
+      "2,0 m",
+      "2,5 m"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I8",
+    "d": [
+      "1,5 m",
+      "2,0 m"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I9",
+    "d": [
+      "ohlášení této změny oblastnímu inspektorátu práce a přerušení všech prací na staveništi až do jeho vyjádření a o přerušení prací neprodleně vyrozumí příslušné fyzické osoby",
+      "zastavení provozu všech strojů na staveništi až do doby, kdy koordinátor bezpečnosti a ochrany zdraví při práci schválí nový technologický postup, a o zastavení provozu neprodleně vyrozumí příslušné fyzické osoby"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I10",
+    "d": [
+      "způsobem a v intervalech stanovených koordinátorem bezpečnosti a ochrany zdraví při práci, vždy však nejméně jednou za měsíc a po každém přerušení prací",
+      "způsobem stanoveným v technologickém postupu, nejméně však jednou týdně, a vždy před zahájením každé pracovní směny na tomto pracovišti"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I11",
+    "d": [
+      "1,2 m",
+      "2,0 m"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I12",
+    "d": [
+      "pro potřebu kontroly dodržování pracovních postupů",
+      "pro potřebu včasného ohlášení nehody koordinátorovi"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I13",
+    "d": [
+      "1,0 m",
+      "1,5 m"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I14",
+    "d": [
+      "1,0 m",
+      "1,5 m"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I15",
+    "d": [
+      "0,8 m",
+      "1,5 m"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I16",
+    "d": [
+      "1,3 m",
+      "2,0 m"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I17",
+    "d": [
+      "1:3",
+      "1:8"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I18",
+    "d": [
+      "1,0 m",
+      "2,0 m"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I19",
+    "d": [
+      "statickým výpočtem v projektové dokumentaci stavby, a to u všech prvků bez výjimky",
+      "písemným záznamem o převzetí bednění ve stavebním deníku s výjimkou typových dílců"
+    ],
+    "note": "Aktuální znění bodu IX.1.4 přílohy č. 3 NV č. 591/2006 Sb. zní „doložena statickým výpočtem s výjimkou prvků bez konstrukčního rizika“; slova „v dodavatelské dokumentaci“ v něm nejsou."
+  },
+  {
+    "id": "I20",
+    "d": [
+      "2 m",
+      "5 m"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I21",
+    "d": [
+      "1,0 m",
+      "2,0 m"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I22",
+    "d": [
+      "0,9 m",
+      "1,0 m"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I23",
+    "d": [
+      "nejméně 0,5 m",
+      "nejméně 1,0 m"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I24",
+    "d": [
+      "prostředků osobní ochrany",
+      "organizačních opatření"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I25",
+    "d": [
+      "aby statické zajištění okolních staveb bylo provedeno až po dokončení bouracích prací, pokud byla jejich stabilita narušena",
+      "aby při provádění bouracích prací bylo statické zajištění okolních staveb provedeno jen tehdy, požádá-li o ně jejich vlastník"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I26",
+    "d": [
+      "jsou-li podepřeny",
+      "nejsou-li nosné"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I27",
+    "d": [
+      "12 hodin",
+      "48 hodin"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I28",
+    "d": [
+      "0 °C",
+      "10 °C"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I29",
+    "d": [
+      "1/2 její nejvyšší přípustné koncentrace",
+      "1/3 jejího přípustného expozičního limitu"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I30",
+    "d": [
+      "pouze svých zaměstnanců, nikoli dalších osob na jejích pracovištích",
+      "všech fyzických osob v okolí jejích pracovišť, i bez jejího vědomí"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I31",
+    "d": [
+      "neplní povinnost zhotovitele vést na staveništi stavební deník a zapisovat do něj údaje o průběhu prací a o použitých stavebních výrobcích, ačkoli k tomu má povinnost podle stavebního zákona a jeho prováděcích právních předpisů",
+      "nedoručí jako stavebník stavebnímu úřadu oznámení o termínu zahájení stavby, o osobě stavbyvedoucího a o osobě vykonávající technický dozor stavebníka, ačkoli k tomu má povinnost podle stavebního zákona"
+    ],
+    "note": "Aktuální § 17 odst. 1 písm. z) zákona č. 251/2005 Sb. je formulován obecněji („nesplní některou z povinností zhotovitele podle § 16 zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci“); oficiální odpověď odpovídá staršímu znění, věcně však platí."
+  },
+  {
+    "id": "I32",
+    "d": [
+      "Ministerstvo práce a sociálních věcí, Technická inspekce České republiky a krajské úřady.",
+      "Ministerstvo průmyslu a obchodu, Česká obchodní inspekce a Technická inspekce České republiky."
+    ],
+    "note": ""
+  },
+  {
+    "id": "I33",
+    "d": [
+      "Státní úřad inspekce práce",
+      "Strojírenský zkušební ústav"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I34",
+    "d": [
+      "tlakové, zdvihací, elektrické, plynové nebo chladicí zařízení, jehož porucha nebo nesprávné použití může způsobit škodu na majetku nebo na životním prostředí zjevně přesahující částku 5 000 000 Kč, a které je proto zapsáno v evidenci vedené oblastním inspektorátem práce příslušným podle místa jeho provozu.",
+      "technické zařízení, k jehož provozu je třeba povolení oblastního inspektorátu práce, neboť při provozu svým charakterem nebo akumulovanou energií, v důsledku nesprávného použití nebo nedodržením podmínek bezpečného provozu představuje riziko ohrožení zdraví obsluhy, a které je uvedeno v seznamu vydaném Ministerstvem práce a sociálních věcí."
+    ],
+    "note": ""
+  },
+  {
+    "id": "I35",
+    "d": [
+      "činnost prováděná na vyhrazeném technickém zařízení nebo jeho částech v pravidelných intervalech za účelem zajištění bezpečného a provozuschopného stavu tohoto zařízení, pokud se nejedná o opravu nebo montáž vyhrazeného technického zařízení, a provádí ji obsluha zařízení podle místního provozního řádu",
+      "ověření bezpečnosti vyhrazeného technického zařízení uváděného do provozu, při kterém se prohlídkou, zkouškou nebo měřením ověřuje, zda zařízení odpovídá průvodní dokumentaci výrobce, popřípadě posouzení projektové dokumentace a odborné způsobilosti montážní organizace, a provádí ji oblastní inspektorát práce"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I36",
+    "d": [
+      "1 000 000 Kč",
+      "10 000 000 Kč"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I37",
+    "d": [
+      "Elektrotechnik",
+      "Osoba znalá"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I38",
+    "d": [
+      "ruční elektromechanické nářadí, elektronické přístroje a elektrické spotřebiče do napětí 400 V včetně, prodlužovací šňůry a odpojitelné přívody a zdravotnické elektrické přístroje",
+      "elektrická zařízení pro výrobu, přenos a rozvod elektrické energie s napětím nad 1 kV, s výjimkou elektrických instalací staveb a zařízení určených k ochraně před účinky atmosférické elektřiny"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I39",
+    "d": [
+      "oblastní inspektorát práce příslušný podle místa provozu tohoto plynového zařízení, který odpovídá za její seznámení s požadavky právních a ostatních předpisů k zajištění bezpečnosti a ochrany zdraví při práci",
+      "revizní technik, který provedl výchozí revizi tohoto plynového zařízení a odpovídá za její seznámení s místním provozním řádem a s průvodní dokumentací výrobce nebo dodavatele zařízení"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I40",
+    "d": [
+      "tlakové nádoby a kotle s nejvyšším pracovním tlakem vyšším než 1 bar, a to parní a kapalinové kotle, jejichž nejvyšší pracovní tlak přesahuje 1 bar a teplota pracovní tekutiny převyšuje při tomto tlaku 100 °C, tlakové nádoby, jejichž nejvyšší pracovní tlak přesahuje 1 bar a které obsahují plyny, páry nebo kapaliny skupiny 2 o teplotě vyšší než + 50 °C; za tlakovou nádobu nejsou považovány vyvíječe páry typu pára/pára a typu horká voda/pára ani vyvíječe páry bez nebezpečí přehřátí, nádoby na plyny sloužící k dopravě plynů, jejichž kritická teplota je vyšší než + 50 °C nebo u nichž při teplotě + 20 °C je absolutní tlak par vyšší než 5 bar od zdroje na místo spotřeby",
+      "tlakové nádoby a kotle s nejvyšším pracovním tlakem vyšším než 0,5 MPa, a to parní a horkovodní kotle o jmenovitém tepelném výkonu přesahujícím 50 kW, jejichž teplota pracovní tekutiny převyšuje 110 °C, tlakové nádoby stabilní, u nichž součin nejvyššího pracovního tlaku v barech a vnitřního objemu v litrech přesahuje hodnotu 50 a které obsahují plyny nebo páry o jakékoliv teplotě; za tlakovou nádobu jsou považovány též rozvody páry a horké vody o jmenovité světlosti větší než DN 100, nádoby na plyny sloužící k dopravě plynů, jejichž kritická teplota je vyšší než + 50 °C nebo u nichž při teplotě + 15 °C je absolutní tlak par vyšší než 10 bar, od plnírny na místo spotřeby"
+    ],
+    "note": ""
+  },
+  {
+    "id": "I41",
+    "d": [
+      "jeřáby a zdvihadla včetně kladkostrojů s motorickým pohonem o nosnosti od 1 000 kg do 3 200 kg, včetně trvale instalovaného zařízení pro uchopení a zavěšení břemene, výtahy pro dopravu osob a nákladu, které jsou trvalou součástí budov, a pracovní plošiny s motorickým pohonem s výškou zdvihu přesahující 1,5 m",
+      "jeřáby a zdvihadla včetně kladkostrojů s motorickým pohonem o nosnosti od 5 000 kg a jeřáby a zdvihadla včetně kladkostrojů s ručním pohonem o nosnosti od 10 000 kg, bez trvale instalovaného zařízení pro uchopení a zavěšení břemene, stavební výtahy pro přepravu nákladu, pojízdné zdvihací pracovní plošiny a závěsné plošiny"
+    ],
+    "note": "Oficiální odpověď uvádí nosnost „od 3 200 kg“ a „od 5 000 kg“, aktuální § 4 odst. 1 písm. a) NV č. 193/2022 Sb. uvádí „o nosnosti přesahující 3 200 kg“ a „přesahující 5 000 kg“ (jeřáb s motorickým pohonem o nosnosti právě 3 200 kg je podle § 4 odst. 2 zařízením II. třídy)."
+  },
+  {
+    "id": "K1",
+    "d": [
+      "část zemského povrchu, která je geometricky a polohově určena, zobrazena v katastrální mapě a označena parcelním číslem",
+      "část zemského povrchu oddělená od sousedních částí výhradně hranicí katastrálního území nebo hranicí vlastnickou"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K2",
+    "d": [
+      "nadzemní nebo podzemní stavba spojená se zemí pevným základem, která je prostorově soustředěna a navenek zcela uzavřena obvodovými stěnami",
+      "každá stavba spojená se zemí pevným základem, které bylo přiděleno číslo popisné nebo evidenční, bez ohledu na její stavebně technické provedení"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K3",
+    "d": [
+      "není, je samostatnou věcí",
+      "je, vyjma staveb drobných"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K4",
+    "d": [
+      "pozemky v podobě parcel, budovy, kterým se přiděluje číslo popisné nebo evidenční, všechny ostatní stavby spojené se zemí pevným základem včetně drobných staveb, inženýrské sítě včetně přípojek, jednotky vymezené podle občanského zákoníku, jednotky vymezené podle zákona o vlastnictví bytů, právo stavby, nemovitosti, o nichž to stanoví jiný právní předpis",
+      "pozemky v podobě parcel s výjimkou pozemků evidovaných zjednodušeným způsobem, budovy, kterým se přiděluje číslo popisné nebo evidenční, pouze pokud jsou součástí pozemku, drobné stavby, které plní doplňkovou funkci ke stavbě hlavní, byty a nebytové prostory vymezené podle stavebního zákona, nemovitosti, o nichž to stanoví jiný právní předpis"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K5",
+    "d": [
+      "nejsou",
+      "jsou, pouze na žádost vlastníka"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K6",
+    "d": [
+      "listinné, nikoli elektronické",
+      "elektronické, nikoli listinné"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K7",
+    "d": [
+      "k okamžiku, kdy rozhodnutí o povolení vkladu nabylo právní moci",
+      "k okamžiku, kdy katastrální úřad zápis do katastru nemovitostí provedl"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K8",
+    "d": [
+      "pouze ten, jehož právo vzniká, mění se nebo se rozšiřuje, nikoli ten, jehož právo zaniká nebo se omezuje",
+      "ten, kdo podal návrh na zahájení vkladového řízení, a každý vlastník sousední nemovitosti, jehož práva mohou být vkladem dotčena"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K9",
+    "d": [
+      "30 dnů ode dne doručení návrhu na vklad katastrálnímu úřadu",
+      "10 dnů ode dne vyznačení plomby v katastru nemovitostí"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K10",
+    "d": [
+      "je přípustná žaloba podle ustanovení občanského soudního řádu, která musí být podána ve lhůtě 30 dnů ode dne doručení rozhodnutí",
+      "je přípustné odvolání k zeměměřickému a katastrálnímu inspektorátu, které musí být podáno ve lhůtě 15 dnů ode dne doručení vyrozumění"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K11",
+    "d": [
+      "není přípustný žádný opravný prostředek, přezkumné řízení, obnova řízení ani žaloba podle ustanovení občanského soudního řádu",
+      "je přípustná žaloba podle soudního řádu správního, která musí být podána ve lhůtě 2 měsíců ode dne doručení rozhodnutí"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K12",
+    "d": [
+      "veřejná listina vyhotovená katastrálním úřadem, na jejímž základě se provádějí zápisy práv k nemovitostem do souboru popisných informací",
+      "technický podklad pro vyhotovování projektové dokumentace staveb, na jehož základě se vytyčuje prostorová poloha stavby v terénu"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K13",
+    "d": [
+      "je-li předmětem zápisu převod vlastnického práva k pozemku, zřízení věcného břemene nebo zástavního práva, a to vždy bez ohledu na rozsah zápisu",
+      "jen tehdy, jestliže o jeho připojení k listině požádá katastrální úřad nebo jestliže jej vyžaduje stavební úřad v rozhodnutí o povolení stavby"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K14",
+    "d": [
+      "práva ujednaná jako věcná práva",
+      "významné informace o nemovitostech"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K15",
+    "d": [
+      "je zápis do katastru nemovitostí, kterým se zapisují věcná práva, práva ujednaná jako věcná práva, nájem a pacht k nemovitostem evidovaným v katastru nemovitostí",
+      "je zápis do katastru nemovitostí, kterým se zapisují práva odvozená od vlastnického práva, a to na základě rozhodnutí orgánů veřejné moci a jiných listin"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K16",
+    "d": [
+      "novým mapováním, revizí katastru nemovitostí nebo na podkladě geometrických plánů ověřených autorizovaným zeměměřickým inženýrem",
+      "pouze na podkladě výsledků pozemkových úprav nebo rozhodnutím soudu o určení průběhu hranic pozemků"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K17",
+    "d": [
+      "parcelní číslo, výměra parcely, druh pozemku, název a geometrické určení katastrálního území",
+      "výměra parcely, údaje o vlastníkovi, způsob využití pozemku a číslo listu vlastnictví"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K18",
+    "d": [
+      "je neveřejný",
+      "je přístupný jen vlastníkům"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K19",
+    "d": [
+      "z katastrální mapy, z listu vlastnictví a ze souboru popisných informací o jednotlivých nemovitostech",
+      "z údajů o vlastnících a jiných oprávněných, o druzích pozemků a o způsobu ochrany nemovitostí"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K20",
+    "d": [
+      "lze poskytnout pouze osobě, která prokáže právní zájem",
+      "lze poskytnout komukoli bez prokazování totožnosti"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K21",
+    "d": [
+      "pouze vlastník nemovitosti evidované v katastru nemovitostí",
+      "pouze územní samosprávný celek nebo organizační složka státu"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K22",
+    "d": [
+      "autorizovaní zeměměřičtí inženýři, kteří jsou zapsáni v rejstříku vedeném Českou komorou zeměměřičů",
+      "osoby s vysokoškolským vzděláním zeměměřického směru a odbornou praxí nejméně 5 let, které složily zkoušku odborné způsobilosti"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K23",
+    "d": [
+      "vstupovat a vjíždět na pozemky jen se souhlasem vlastníka nebo oprávněného uživatele pozemků, vstupovat do staveb po předchozím oznámení vlastníkovi nebo oprávněnému uživateli stavby",
+      "vstupovat a vjíždět na pozemky a vstupovat do staveb bez předchozího oznámení, pokud se zeměměřič prokáže služebním průkazem nebo živnostenským listem"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K24",
+    "d": [
+      "pouze geodetický podklad pro výstavbu a geodetickou část dokumentace skutečného provedení stavby, nikoli však dokumentaci o vytyčovací síti ani dokumentaci o vytyčení prostorové polohy, rozměru a tvaru stavby pro účely výstavby",
+      "dokumentaci o sledování posunů a přetvoření stavby po dobu její životnosti, výpočet kubatur zemních prací pro účely fakturace, zaměření zařízení staveniště a podklady pro výpočet výměr pro účely daně z nemovitých věcí"
+    ],
+    "note": "Aktuální § 12 odst. 2 zákona č. 200/1994 Sb. místo „geodetické části dokumentace skutečného provedení stavby“ uvádí „dokumentaci o zaměření prostorové polohy, rozměru a tvaru dokončené stavby nebo technologického zařízení stavby“; věcně odpovídá."
+  },
+  {
+    "id": "K25",
+    "d": [
+      "autorizovaným zeměměřickým inženýrem",
+      "Českou komorou zeměměřičů"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K26",
+    "d": [
+      "komu bylo Českým úřadem zeměměřickým a katastrálním uděleno úřední oprávnění a je zapsán v seznamu vedeném tímto úřadem",
+      "komu byla Českou komorou autorizovaných inženýrů a techniků činných ve výstavbě udělena autorizace v oboru geodézie a kartografie"
+    ],
+    "note": ""
+  },
+  {
+    "id": "K27",
+    "d": [
+      "výsledků zeměměřických činností vyhotovených orgány zeměměřictví a katastru jako součást výkonu jejich působnosti",
+      "výsledků zeměměřických činností pro státní mapová díla vyhotovených vojenským zařízením pro potřeby obrany státu"
+    ],
+    "note": ""
+  }
+]

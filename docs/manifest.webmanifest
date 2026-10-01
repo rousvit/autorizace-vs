@@ -1,0 +1,19 @@
+{
+  "name": "Autorizace VS – trenažér k zkoušce ČKAIT",
+  "short_name": "Autorizace VS",
+  "description": "Neoficiální trenažér k písemné části autorizační zkoušky ČKAIT, obor Stavby vodního hospodářství a krajinného inženýrství.",
+  "lang": "cs",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f5f8",
+  "theme_color": "#0a66c2",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

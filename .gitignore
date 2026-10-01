@@ -1,0 +1,16 @@
+# zdrojové PDF ČKAIT se do repozitáře nedává (je ke stažení na webu ČKAIT)
+*.pdf
+
+# surová data stažená z e-Sbírky a EUR-Lexu (dají se znovu stáhnout)
+cache/
+
+# pracovní podklady pro tvorbu variant a/b/c
+data/distractors/input/
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# lokální konfigurace náhledu
+.claude/

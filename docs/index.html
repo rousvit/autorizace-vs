@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="description" content="Neoficiální trenažér k písemné části autorizační zkoušky ČKAIT – obor Stavby vodního hospodářství a krajinného inženýrství.">
+  <meta name="theme-color" content="#0a66c2" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0e141b" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Autorizace VS">
+  <title>Autorizace VS</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="icon" href="icons/icon-192.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="app.css">
+  <script>
+    // motiv nastavit ještě před vykreslením, ať stránka neprobliká
+    try {
+      var t = JSON.parse(localStorage.getItem('avs.v1') || '{}').settings;
+      if (t && (t.theme === 'light' || t.theme === 'dark')) document.documentElement.dataset.theme = t.theme;
+    } catch (e) {}
+  </script>
+</head>
+<body>
+  <header class="topbar" id="topbar">
+    <button class="icon-btn" id="back-btn" aria-label="Zpět" hidden>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>
+    </button>
+    <h1 class="topbar-title" id="title">Autorizace VS</h1>
+    <a class="icon-btn" href="#/nastaveni" id="settings-btn" aria-label="Nastavení">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3.2"/><path d="M19.4 13.5a7.6 7.6 0 0 0 0-3l2-1.6-2-3.4-2.4 1a7.4 7.4 0 0 0-2.6-1.5L14 2.5h-4l-.4 2.5A7.4 7.4 0 0 0 7 6.5l-2.4-1-2 3.4 2 1.6a7.6 7.6 0 0 0 0 3l-2 1.6 2 3.4 2.4-1a7.4 7.4 0 0 0 2.6 1.5l.4 2.5h4l.4-2.5a7.4 7.4 0 0 0 2.6-1.5l2.4 1 2-3.4z"/></svg>
+    </a>
+  </header>
+
+  <main id="view" class="view" tabindex="-1">
+    <div class="loading" id="boot">
+      <div class="spinner" aria-hidden="true"></div>
+      <p>Načítám otázky…</p>
+    </div>
+    <noscript><p class="card">Aplikace potřebuje zapnutý JavaScript.</p></noscript>
+  </main>
+
+  <nav class="tabbar" id="tabbar" aria-label="Hlavní navigace">
+    <a href="#/" data-tab="home">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg>
+      <span>Přehled</span>
+    </a>
+    <a href="#/uceni" data-tab="learn">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="6" width="14" height="14" rx="2"/><path d="M7 3h12a2 2 0 0 1 2 2v12"/></svg>
+      <span>Učení</span>
+    </a>
+    <a href="#/zkouska" data-tab="exam">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>
+      <span>Zkouška</span>
+    </a>
+    <a href="#/okruhy" data-tab="topics">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6h13M8 12h13M8 18h13"/><circle cx="4" cy="6" r="1.3"/><circle cx="4" cy="12" r="1.3"/><circle cx="4" cy="18" r="1.3"/></svg>
+      <span>Okruhy</span>
+    </a>
+    <a href="#/predpisy" data-tab="laws">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14.5 5.5c-.6-1.3-1.8-2-3.3-2-2 0-3.4 1.2-3.4 2.9 0 4 7.4 3.1 7.4 7.4 0 1.2-.7 2.1-1.7 2.6M9.5 18.5c.6 1.3 1.8 2 3.3 2 2 0 3.4-1.2 3.4-2.9 0-4-7.4-3.1-7.4-7.4 0-1.2.7-2.1 1.7-2.6"/></svg>
+      <span>Předpisy</span>
+    </a>
+  </nav>
+
+  <div id="toast-root" aria-live="polite"></div>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
