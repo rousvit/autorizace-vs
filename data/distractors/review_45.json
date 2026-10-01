@@ -1,0 +1,23 @@
+[
+  {
+    "id": "D17",
+    "i": 0,
+    "problem": "POSSIBLY_CORRECT",
+    "reason": "§ 2595 OZ dává zhotoviteli jen právo (nikoli povinnost) odstoupit; pokud neodstoupí, smlouva trvá a zhotovitel je povinen dílo podle (písemného) pokynu objednatele dokončit, přičemž za vady z nevhodného pokynu neodpovídá (§ 2594 odst. 2 a 4 OZ). Výrok „je povinen dílo dokončit“ lze proto hájit jako pravdivý. Jednoznačně nepravdivé je popření práva odstoupit.",
+    "replacement": "zhotovitel nemůže od smlouvy odstoupit"
+  },
+  {
+    "id": "E8",
+    "i": 1,
+    "problem": "IMPLAUSIBLE",
+    "reason": "Vymezení stavby podle hodnoty (9 mil. Kč je limit VZMR podle § 27 ZZVZ) je věcně absurdní a každý ho snadno vyloučí. Hodnota s pojmem stavby (§ 14 odst. 4 ZZVZ) nijak nesouvisí. Navrhuji uvěřitelnou záměnu kritéria „jednotného celku“ za rozsah projektové dokumentace.",
+    "replacement": "výsledek stavebních nebo montážních prací řešený jednou projektovou dokumentací, a to bez ohledu na to, zda je sám o sobě dostatečný k plnění hospodářské nebo technické funkce"
+  },
+  {
+    "id": "F8",
+    "i": 0,
+    "problem": "POSSIBLY_CORRECT",
+    "reason": "Podle § 13 odst. 2 ŽZ je osoba pokračující v provozování živnosti po smrti podnikatele (např. nezletilý dědic), která nesplňuje podmínky § 6 (nebo § 7), povinna neprodleně ustanovit odpovědného zástupce. Výrok „FO, která nesplňuje všeobecné podmínky (§ 6), musí ustanovit OZ“ je tak pravdivý podle jiného ustanovení téhož zákona.",
+    "replacement": "podnikatel, který je fyzickou osobou a provozuje koncesovanou živnost, i když splňuje zvláštní podmínky (§ 7)"
+  }
+]

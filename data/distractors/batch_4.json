@@ -1,63 +1,490 @@
 [
-  {"id": "D1", "d": ["pro smlouvu o dílo na zhotovení stavby", "pro kupní smlouvu na movitou věc"], "note": ""},
-  {"id": "D2", "d": ["je smlouva platná, neboť zákon u smlouvy o dílo písemnou formu nepředepisuje", "je smlouva zdánlivá, takže se k ní nepřihlíží, a tento nedostatek nelze zhojit"], "note": ""},
-  {"id": "D3", "d": ["vždy, a to bez ohledu na formu právního jednání, k němuž je zmocněnec zmocněn, i bez ohledu na počet právních jednání, k nimž se zmocnění vztahuje", "pouze tehdy, jestliže právní jednání, k němuž je zmocněnec zmocněn, vyžaduje formu veřejné listiny; v ostatních případech postačí ústní plná moc"], "note": ""},
-  {"id": "D4", "d": ["připojí k názvu právnické osoby svůj podpis a vždy též otisk razítka právnické osoby a údaj o své funkci", "připojí k názvu právnické osoby svůj úředně ověřený podpis a vždy též údaj o svém zápisu v obchodním rejstříku"], "note": ""},
-  {"id": "D5", "d": ["dvouletá", "čtyřletá"], "note": ""},
-  {"id": "D6", "d": ["organizovaný soubor jmění sloužící podnikateli k provozování jeho činnosti", "jméno, pod kterým je podnikatel zapsán do živnostenského rejstříku"], "note": ""},
-  {"id": "D7", "d": ["odpovídá postupitel postupníkovi pouze za to, že pohledávka existuje, za její dobytnost však neručí", "neodpovídá postupitel postupníkovi za existenci ani za dobytnost pohledávky, ledaže se k tomu písemně zavázal"], "note": ""},
-  {"id": "D8", "d": ["povinnost uzavřít budoucí smlouvu nezaniká", "může obsah budoucí smlouvy určit soud"], "note": ""},
-  {"id": "D9", "d": ["pouze smrtí příkazníka nebo zánikem příkazníka bez právního nástupce, nikoli však smrtí či zánikem příkazce", "nikoli smrtí příkazce ani příkazníka, neboť práva a povinnosti z příkazu přecházejí na jejich dědice či právní nástupce"], "note": ""},
-  {"id": "D10", "d": ["může znevýhodněná strana od smlouvy bez dalšího odstoupit, aniž by byla povinna jednat s druhou stranou o změně smlouvy", "může znevýhodněná strana odložit plnění svých povinností ze smlouvy až do doby, než se strany dohodnou na změně smlouvy"], "note": ""},
-  {"id": "D11", "d": ["okamžikem účinnosti převodní smlouvy", "předáním nemovité věci nabyvateli"], "note": ""},
-  {"id": "D12", "d": ["je až do převzetí stavby objednatelem ve vlastnictví zhotovitele", "se stává vlastnictvím objednatele až vydáním kolaudačního rozhodnutí"], "note": ""},
-  {"id": "D13", "d": ["v době sjednané ve smlouvě, nejpozději však do 14 dnů od dokončení díla, a to bez ohledu na doručení faktury", "vždy předem, nejpozději v den zahájení provádění díla, nebyla-li ve smlouvě sjednána splatnost po převzetí díla"], "note": "§ 1963 OZ stanoví 30denní splatnost jen jako dispozitivní pravidlo mezi podnikateli (a vůči veřejnému zadavateli); strany mohou sjednat delší splatnost (nad 60 dnů jen výslovně a není-li to pro věřitele zvláště nevýhodné), takže „nejpozději však do 30 dnů“ je zjednodušení."},
-  {"id": "D14", "d": ["jen do dokončení stavby, i když nebyla objednateli předána, ledaže by ke škodě došlo i jinak (např. vichřicí)", "až do vydání kolaudačního rozhodnutí, a to i tehdy, pokud by ke škodě došlo i jinak (např. vichřicí či povodní)"], "note": ""},
-  {"id": "D15", "d": ["zhotovitel není povinen objednatele upozorňovat, neboť za správnost projektové dokumentace i za své pokyny odpovídá výhradně objednatel (popřípadě projektant, kterého si objednatel zvolil); zhotovitel provádí dílo podle předané dokumentace", "zhotovitel je povinen objednatele písemně upozornit na nevhodnost dokumentace či pokynu do 30 dnů od jejich předání; této povinnosti se nezprostí ani tehdy, nemohl-li nevhodnost při vynaložení potřebné péče zjistit"], "note": ""},
-  {"id": "D16", "d": ["zhotovitel nesmí provádění díla přerušit a je povinen v něm pokračovat podle předané dokumentace; má však právo na úhradu vícenákladů a lhůta pro dokončení díla se nemění", "zhotovitel má právo provádění díla přerušit až do výměny nevhodné věci nebo příkazu; lhůta pro dokončení díla se však neprodlužuje a náklady spojené s přerušením nese zhotovitel"], "note": "§ 2594 odst. 2 OZ formuluje přerušení jako povinnost zhotovitele („zhotovitel je v nezbytném rozsahu přeruší“), oficiální odpověď hovoří jen o právu."},
-  {"id": "D17", "d": ["zhotovitel je povinen dílo dokončit", "zhotovitel může smlouvu vypovědět"], "note": ""},
-  {"id": "D18", "d": ["může objednatel odmítnout převzetí stavby", "musí objednatel stavbu převzít a ztrácí práva z vad"], "note": ""},
-  {"id": "D19", "d": ["může", "může, do 10 %"], "note": ""},
-  {"id": "D20", "d": ["stanoví zákonnou záruku za jakost díla v délce tří let od předání díla, kterou lze ve smlouvě prodloužit, nikoli však zkrátit nebo vyloučit", "stanoví u staveb zákonnou záruku v délce pěti let od převzetí stavby; delší záruku lze sjednat jen ve smlouvě, jednostranné záruční prohlášení zhotovitele je neplatné"], "note": ""},
-  {"id": "D21", "d": ["je druhá strana oprávněna odstoupit až po marném uplynutí dodatečné lhůty", "je druhá strana oprávněna smlouvu vypovědět s tříměsíční výpovědní dobou"], "note": ""},
-  {"id": "D22", "d": ["nikdy", "jen zčásti"], "note": ""},
-  {"id": "D23", "d": ["do tří let od převzetí stavby", "do deseti let od převzetí stavby"], "note": ""},
-  {"id": "D24", "d": ["projektant je povinen nahradit škodu způsobenou nesprávnou nebo neúplnou projektovou dokumentací jen tehdy, pokud ji způsobil vědomě, a to i v případě, že dokumentaci zpracoval za odměnu; jeho povinnost k náhradě škody je podmíněna zaviněním, které musí poškozený prokázat (je to odpovědnost subjektivní)", "projektant není povinen škodu nahradit, neboť projektovou dokumentaci převzal objednatel jako dílo bez výhrad; za škodu způsobenou nesprávnou nebo neúplnou dokumentací odpovídá vůči poškozeným výhradně stavebník, popřípadě zhotovitel stavby (projektant odpovídá jen za vady díla, a to do dvou let od jeho předání)"], "note": ""},
-  {"id": "D25", "d": ["pouze dodavatel projektové dokumentace (a to i tehdy, prokáže-li, že vadu nezpůsobila chyba stavební dokumentace); subdodavatel zhotovitele ani osoba provádějící stavební dozor vedle zhotovitele neodpovídají, neboť jsou zavázáni jen svému smluvnímu partnerovi", "subdodavatel (ledaže prokáže, že vadu nezavinil), dodavatel projektové dokumentace (ledaže prokáže, že projektovou dokumentaci ověřil stavební úřad) a osoba provádějící stavební dozor (ledaže prokáže, že ji zvolil objednatel)"], "note": ""},
-  {"id": "D26", "d": ["pokud prokáže, že vadu způsobil jen jeho subdodavatel nebo dodavatel stavebních výrobků, a to i tehdy, vybral-li si je zhotovitel sám, anebo prokáže-li, že vadu nezavinil", "pokud prokáže, že vadu způsobila jen chyba ve stavební dokumentaci, kterou si zhotovitel sám opatřil, nebo jen selhání dozoru nad stavbou vykonávaného osobou, kterou si zvolil zhotovitel"], "note": ""},
-  {"id": "D27", "d": ["Majitel sousedního domu má nárok na náhradu škody pouze tehdy, pokud zhotovitel porušil právní povinnost (např. nepostupoval podle projektové dokumentace) a škodu zavinil", "Majitel sousedního domu má nárok jen na náhradu škody přesahující míru přiměřenou místním poměrům, neboť škodu do této míry je jako soused povinen snášet"], "note": ""},
-  {"id": "D28", "d": ["je povinen nahradit škodu jen tehdy, prokáže-li mu vlastník vodovodu zavinění. Povinnosti k náhradě škody se zprostí, prokáže-li, že postupoval podle ověřené projektové dokumentace", "není povinen nahradit škodu, pokud k poškození došlo při pracích prováděných na základě povolení stavby. Škodu v takovém případě nese vlastník vodovodu sám"], "note": ""},
-  {"id": "D29", "d": ["k jakémukoli účelu, i pro další stavby", "jen po dobu provádění stavby"], "note": ""},
-  {"id": "D30", "d": ["nemůže, neboť soused smí na svém pozemku zřídit jakoukoli stavbu, k níž mu stavební úřad vydal povolení", "může, má-li proto rozumný důvod, a to bez ohledu na vzdálenost stavby od společné hranice pozemků"], "note": ""},
-  {"id": "D31", "d": ["nejsou společné", "patří zřizovateli"], "note": ""},
-  {"id": "D32", "d": ["jsou součástí pozemku, na němž nebo pod nímž jsou umístěny", "jsou příslušenstvím pozemků, které zasahují"], "note": ""},
-  {"id": "D33", "d": ["účinností zástavní smlouvy", "zápisem do rejstříku zástav"], "note": ""},
-  {"id": "D34", "d": ["vzniká účinností smlouvy o zřízení služebnosti a lze je zřídit pouze ve prospěch určitého pozemku, nikoli ve prospěch určité osoby", "vzniká zápisem do katastru nemovitostí a lze je zřídit jen ve prospěch určité osoby (služebnost pak smrtí oprávněné osoby nezaniká, ale přechází na všechny její dědice)"], "note": ""},
-  {"id": "D35", "d": ["stavba je samostatnou věcí ve vlastnictví stavebníka, který ji zřídil", "stavba se stává podílovým spoluvlastnictvím stavebníka a vlastníka pozemku"], "note": ""},
-  {"id": "D36", "d": ["představuje obligační (závazkové) právo stavebníka užívat cizí pozemek k provedení stavby na základě nájemní smlouvy", "představuje veřejnoprávní oprávnění stavebníka provést stavbu, vznikající na základě povolení stavebního úřadu"], "note": ""},
-  {"id": "D37", "d": ["3 roky pro řádné vydržení a 6 let pro mimořádné vydržení", "5 let pro řádné vydržení a 10 let pro mimořádné vydržení"], "note": ""},
-  {"id": "D38", "d": ["zřizovatel stavby se stane vlastníkem zastavěné části cizího pozemku bez ohledu na svou dobrou víru, a to bez povinnosti cokoli nahradit", "zřizovatel stavby je povinen přestavek na svůj náklad odstranit, a to i tehdy, pokud stavěl v dobré víře"], "note": ""},
-  {"id": "D39", "d": ["každé zaviněné porušení právní povinnosti, kterým byla jinému způsobena škoda na majetku nebo újma na zdraví a za které lze uložit pokutu", "každý čin nebezpečný pro společnost, jehož znaky jsou uvedeny v trestním zákoníku nebo v jiném zákoně, např. ve stavebním zákoně"], "note": ""},
-  {"id": "D40", "d": ["byl-li spáchán alespoň z nedbalosti; úmyslné zavinění se vyžaduje jen tehdy, jestliže to trestní zákoník výslovně stanoví", "byl-li spáchán úmyslně nebo z nedbalosti, a to u všech trestných činů bez rozdílu, pokud jím vznikla škoda"], "note": ""},
-  {"id": "D41", "d": ["chtěl svým jednáním (opomenutím) způsobit škodlivý následek, nebo věděl, že jej může způsobit, a pro případ, že jej způsobí, byl s tím srozuměn, přičemž srozuměním se rozumí i smíření s tím, že takový následek může způsobit (např. stavbyvedoucí vědomě nezajistí stěny výkopu proti sesutí)", "věděl, že svým jednáním (opomenutím) škodlivý následek způsobí, a přesto jej z lehkomyslnosti způsobil, nebo nevěděl, že svým jednáním (opomenutím) takový následek může způsobit, a vzhledem k okolnostem a k svým osobním poměrům (např. zastávané funkci stavbyvedoucího) o tom ani vědět nemohl"], "note": "§ 16 odst. 1 písm. b) TZ vyžaduje kumulativně, aby pachatel o možnosti následku „vědět měl a mohl“; oficiální odpověď uvádí „vědět měl nebo mohl“."},
-  {"id": "D42", "d": ["proti odpovědným osobám nemůže být vedeno trestní stíhání, neboť následek nezpůsobily úmyslně; lze je postihnout jen za přestupek podle stavebního zákona. Poškozené osoby (např. pozůstalí) mohou požadovat náhradu škody výhradně v občanskoprávním řízení", "trestní stíhání může být vedeno jen proti projektantovi, který vadnou dokumentaci zpracoval, nikoli proti zhotoviteli, který odpovídá pouze za vady díla. Poškozené osoby (např. pozůstalí) mohou náhradu škody požadovat, jen bude-li projektant pravomocně odsouzen"], "note": ""},
-  {"id": "D43", "d": ["trestní stíhání může být vedeno pouze vůči fyzickým osobám (např. projektant, zhotovitel, subdodavatel), neboť právnické osoby nemohou být trestně odpovědné; lze jim uložit jen pokutu ve správním řízení", "trestní stíhání může být vedeno pouze proti právnickým osobám (např. projekční kancelář, stavební společnost), nikoli proti jejich zaměstnancům, kteří odpovídají jen zaměstnavateli v rámci pracovněprávních vztahů"], "note": ""},
-  {"id": "E1", "d": ["veřejné zakázky na dodávky, veřejné zakázky na služby, veřejné zakázky na stavební práce, veřejné zakázky na projektové práce a veřejné zakázky na inženýrskou činnost", "nadlimitní veřejné zakázky, podlimitní veřejné zakázky, veřejné zakázky malého rozsahu, koncese na služby a koncese na stavební práce"], "note": ""},
-  {"id": "E2", "d": ["nadlimitní veřejné zakázky, podlimitní veřejné zakázky a veřejné zakázky ve zjednodušeném režimu", "veřejné zakázky velkého rozsahu, veřejné zakázky středního rozsahu a veřejné zakázky malého rozsahu"], "note": ""},
-  {"id": "E3", "d": ["v případě veřejné zakázky na dodávky nebo veřejné zakázky na služby nižší nebo rovna částce 5 mil. Kč, v případě veřejné zakázky na stavební práce nižší nebo rovna částce 15 mil. Kč", "v případě veřejné zakázky na dodávky, veřejné zakázky na služby i veřejné zakázky na stavební práce shodně nižší nebo rovna částce 6 mil. Kč, a to bez ohledu na předmět plnění"], "note": ""},
-  {"id": "E4", "d": ["zahrnuje DPH", "nezahrnuje vyhrazené změny"], "note": ""},
-  {"id": "E5", "d": ["otevřené řízení, užší řízení, jednací řízení s uveřejněním, jednací řízení bez uveřejnění, zjednodušené podlimitní řízení, řízení se soutěžním dialogem, soutěž o návrh, dynamický nákupní systém a elektronická aukce", "otevřené řízení, užší řízení, jednací řízení s uveřejněním, jednací řízení bez uveřejnění, zjednodušené podlimitní řízení, řízení se soutěžním dialogem, řízení o inovačním partnerství, koncesní řízení a výběrové řízení na veřejnou zakázku malého rozsahu"], "note": ""},
-  {"id": "E6", "d": ["podlimitní veřejné zakázky na dodávky nebo na služby, nebo podlimitní veřejné zakázky na stavební práce, jejíž předpokládaná hodnota je nižší nebo rovna částce 100 mil. Kč", "pouze podlimitní veřejné zakázky na stavební práce, a to bez ohledu na její předpokládanou hodnotu, nikoli však podlimitní veřejné zakázky na dodávky nebo na služby"], "note": ""},
-  {"id": "E7", "d": ["poskytnutí projektových činností, a to i tehdy, pokud jsou zadávány samostatně bez stavebních prací", "pořízení stavebních materiálů a výrobků, a to i tehdy, pokud nejsou zadávány společně se stavebními pracemi"], "note": ""},
-  {"id": "E8", "d": ["každé stavební dílo vzniklé stavební nebo montážní technologií, k jehož provedení je třeba povolení záměru podle stavebního zákona", "výsledek stavebních nebo montážních prací, jehož předpokládaná hodnota přesahuje 9 mil. Kč, i když sám o sobě není dostatečný k plnění hospodářské nebo technické funkce"], "note": ""},
-  {"id": "E9", "d": ["dokumentaci pro povolení stavby a položkový rozpočet stavby s oceněním jednotlivých položek, a to v rozsahu stanoveném vyhláškou Ministerstva pro místní rozvoj; tyto dokumenty nelze nahradit požadavky na výkon nebo funkci", "dokumentaci a soupis stavebních prací, dodávek a služeb s výkazem výměr, a to v rozsahu stanoveném stavebním zákonem; tyto dokumenty mohou být nahrazeny požadavky na výkon nebo funkci jen u veřejných zakázek malého rozsahu"], "note": ""},
-  {"id": "E10", "d": ["stavbu v podrobnostech potřebných pro povolení stavby, zejména její umístění, základní technické a provozní parametry a vliv na okolí, přičemž soupis stavebních prací, dodávek a služeb s výkazem výměr vyhotovuje až vybraný dodavatel v rámci realizační dokumentace", "stavbu v podrobnostech výrobní a dílenské dokumentace zhotovitele, včetně technologických postupů jednotlivých prací, a současně stanoví předpokládanou cenu stavby, kterou účastník zadávacího řízení nesmí v nabídce překročit"], "note": ""},
-  {"id": "E11", "d": ["projektové dokumentaci pro povolení stavby nebo projektové dokumentaci pro povolení dopravní stavby nebo dokumentaci pro rámcové povolení, a to podle vyhlášky o dokumentaci staveb nebo vyhlášky o rozsahu a obsahu projektové dokumentace dopravních staveb", "dokumentaci skutečného provedení stavby nebo dílenské a výrobní dokumentaci zhotovitele stavby, a to podle vyhlášky o dokumentaci staveb nebo podle technických norem upravujících provádění staveb"], "note": ""},
-  {"id": "E12", "d": ["nezávisle na dokumentaci pro zadání stavebních prací ocenění všech předpokládaných stavebních prací, dodávek nebo služeb jednotkovými cenami stanovenými zadavatelem, které účastníci nesmějí v nabídce měnit", "v přímé návaznosti na dokumentaci pro zadání stavebních prací souhrnný popis pouze hlavních stavebních objektů a provozních souborů, přičemž podrobný popis jednotlivých prací, dodávek a služeb zpracovává až vybraný dodavatel"], "note": ""},
-  {"id": "E13", "d": ["základní způsobilosti, profesní způsobilosti, ekonomické kvalifikace a technické kvalifikace, a dále jakýchkoli dalších kritérií kvalifikace, která si zadavatel stanoví nad rámec zákona", "pouze základní způsobilosti a profesní způsobilosti; ekonomickou a technickou kvalifikaci zadavatel u nadlimitní veřejné zakázky požadovat nesmí"], "note": ""},
-  {"id": "E14", "d": ["musí být ekonomická výhodnost stanovena pouze na základě nejnižší nabídkové ceny", "musí být ekonomická výhodnost hodnocena pouze podle kvality při pevně stanovené ceně"], "note": ""},
-  {"id": "E15", "d": ["výše smluvní pokuty, kterou dodavatel nabídne pro případ prodlení s plněním veřejné zakázky, nebo délka lhůty splatnosti faktur, kterou dodavatel zadavateli poskytne", "celkový roční obrat dodavatele a počet jeho zaměstnanců za poslední tři účetní období, pokud tyto údaje prokazují ekonomickou stabilitu dodavatele"], "note": ""},
-  {"id": "E16", "d": ["směřující k uzavření smlouvy na zhotovení stavby s dodavatelem, jehož projekt a nabídková cena budou porotou vyhodnoceny jako ekonomicky nejvýhodnější", "směřující k získání nabídek na zpracování projektové dokumentace, které se hodnotí výhradně podle nejnižší nabídkové ceny, zejména v oblasti územního plánování nebo architektonických služeb"], "note": ""},
-  {"id": "E17", "d": ["otevřenou soutěž o návrh a jednací soutěž o návrh", "ideovou soutěž o návrh a projektovou soutěž o návrh"], "note": ""},
-  {"id": "E18", "d": ["uzavření úplatné smlouvy, kterou zadavatel zadá provedení stavebních prací dodavateli, přičemž protiplnění spočívá výhradně v pevně sjednané platbě hrazené zadavatelem v pravidelných splátkách po dobu provozování stavby, a to s podmínkou, že provozní riziko spojené s provozováním stavby nese nadále zadavatel", "uzavření úplatné smlouvy, kterou zadavatel zadá provedení stavebních prací dodavateli, přičemž protiplnění spočívá v právu na braní užitků vyplývajících z provozování provedené stavby, a to s podmínkou, že zadavatel dodavateli zaručí návratnost investic a nákladů vynaložených na provedení a provozování stavby"], "note": ""}
+ {
+  "id": "D1",
+  "d": [
+   "pro smlouvu o dílo na zhotovení stavby",
+   "pro kupní smlouvu na movitou věc"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D2",
+  "d": [
+   "je smlouva platná, neboť zákon u smlouvy o dílo písemnou formu nepředepisuje",
+   "je smlouva zdánlivá, takže se k ní nepřihlíží, a tento nedostatek nelze zhojit"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D3",
+  "d": [
+   "vždy, a to bez ohledu na formu právního jednání, k němuž je zmocněnec zmocněn, i bez ohledu na počet právních jednání, k nimž se zmocnění vztahuje",
+   "pouze tehdy, jestliže právní jednání, k němuž je zmocněnec zmocněn, vyžaduje formu veřejné listiny; v ostatních případech postačí ústní plná moc"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D4",
+  "d": [
+   "připojí k názvu právnické osoby svůj podpis a vždy též otisk razítka právnické osoby a údaj o své funkci",
+   "připojí k názvu právnické osoby svůj úředně ověřený podpis a vždy též údaj o svém zápisu v obchodním rejstříku"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D5",
+  "d": [
+   "dvouletá",
+   "čtyřletá"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D6",
+  "d": [
+   "organizovaný soubor jmění sloužící podnikateli k provozování jeho činnosti",
+   "jméno, pod kterým je podnikatel zapsán do živnostenského rejstříku"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D7",
+  "d": [
+   "odpovídá postupitel postupníkovi pouze za to, že pohledávka existuje, za její dobytnost však neručí",
+   "neodpovídá postupitel postupníkovi za existenci ani za dobytnost pohledávky, ledaže se k tomu písemně zavázal"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D8",
+  "d": [
+   "povinnost uzavřít budoucí smlouvu nezaniká",
+   "může obsah budoucí smlouvy určit soud"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D9",
+  "d": [
+   "pouze smrtí příkazníka nebo zánikem příkazníka bez právního nástupce, nikoli však smrtí či zánikem příkazce",
+   "nikoli smrtí příkazce ani příkazníka, neboť práva a povinnosti z příkazu přecházejí na jejich dědice či právní nástupce"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D10",
+  "d": [
+   "může znevýhodněná strana od smlouvy bez dalšího odstoupit, aniž by byla povinna jednat s druhou stranou o změně smlouvy",
+   "může znevýhodněná strana odložit plnění svých povinností ze smlouvy až do doby, než se strany dohodnou na změně smlouvy"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D11",
+  "d": [
+   "okamžikem účinnosti převodní smlouvy",
+   "předáním nemovité věci nabyvateli"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D12",
+  "d": [
+   "je až do převzetí stavby objednatelem ve vlastnictví zhotovitele",
+   "se stává vlastnictvím objednatele až vydáním kolaudačního rozhodnutí"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D13",
+  "d": [
+   "v době sjednané ve smlouvě, nejpozději však do 14 dnů od dokončení díla, a to bez ohledu na doručení faktury",
+   "vždy předem, nejpozději v den zahájení provádění díla, nebyla-li ve smlouvě sjednána splatnost po převzetí díla"
+  ],
+  "note": "§ 1963 OZ stanoví 30denní splatnost jen jako dispozitivní pravidlo mezi podnikateli (a vůči veřejnému zadavateli); strany mohou sjednat delší splatnost (nad 60 dnů jen výslovně a není-li to pro věřitele zvláště nevýhodné), takže „nejpozději však do 30 dnů“ je zjednodušení."
+ },
+ {
+  "id": "D14",
+  "d": [
+   "jen do dokončení stavby, i když nebyla objednateli předána, ledaže by ke škodě došlo i jinak (např. vichřicí)",
+   "až do vydání kolaudačního rozhodnutí, a to i tehdy, pokud by ke škodě došlo i jinak (např. vichřicí či povodní)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D15",
+  "d": [
+   "zhotovitel není povinen objednatele upozorňovat, neboť za správnost projektové dokumentace i za své pokyny odpovídá výhradně objednatel (popřípadě projektant, kterého si objednatel zvolil); zhotovitel provádí dílo podle předané dokumentace",
+   "zhotovitel je povinen objednatele písemně upozornit na nevhodnost dokumentace či pokynu do 30 dnů od jejich předání; této povinnosti se nezprostí ani tehdy, nemohl-li nevhodnost při vynaložení potřebné péče zjistit"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D16",
+  "d": [
+   "zhotovitel nesmí provádění díla přerušit a je povinen v něm pokračovat podle předané dokumentace; má však právo na úhradu vícenákladů a lhůta pro dokončení díla se nemění",
+   "zhotovitel má právo provádění díla přerušit až do výměny nevhodné věci nebo příkazu; lhůta pro dokončení díla se však neprodlužuje a náklady spojené s přerušením nese zhotovitel"
+  ],
+  "note": "§ 2594 odst. 2 OZ formuluje přerušení jako povinnost zhotovitele („zhotovitel je v nezbytném rozsahu přeruší“), oficiální odpověď hovoří jen o právu."
+ },
+ {
+  "id": "D17",
+  "d": [
+   "zhotovitel nemůže od smlouvy odstoupit",
+   "zhotovitel může smlouvu vypovědět"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D18",
+  "d": [
+   "může objednatel odmítnout převzetí stavby",
+   "musí objednatel stavbu převzít a ztrácí práva z vad"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D19",
+  "d": [
+   "může",
+   "může, do 10 %"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D20",
+  "d": [
+   "stanoví zákonnou záruku za jakost díla v délce tří let od předání díla, kterou lze ve smlouvě prodloužit, nikoli však zkrátit nebo vyloučit",
+   "stanoví u staveb zákonnou záruku v délce pěti let od převzetí stavby; delší záruku lze sjednat jen ve smlouvě, jednostranné záruční prohlášení zhotovitele je neplatné"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D21",
+  "d": [
+   "je druhá strana oprávněna odstoupit až po marném uplynutí dodatečné lhůty",
+   "je druhá strana oprávněna smlouvu vypovědět s tříměsíční výpovědní dobou"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D22",
+  "d": [
+   "nikdy",
+   "jen zčásti"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D23",
+  "d": [
+   "do tří let od převzetí stavby",
+   "do deseti let od převzetí stavby"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D24",
+  "d": [
+   "projektant je povinen nahradit škodu způsobenou nesprávnou nebo neúplnou projektovou dokumentací jen tehdy, pokud ji způsobil vědomě, a to i v případě, že dokumentaci zpracoval za odměnu; jeho povinnost k náhradě škody je podmíněna zaviněním, které musí poškozený prokázat (je to odpovědnost subjektivní)",
+   "projektant není povinen škodu nahradit, neboť projektovou dokumentaci převzal objednatel jako dílo bez výhrad; za škodu způsobenou nesprávnou nebo neúplnou dokumentací odpovídá vůči poškozeným výhradně stavebník, popřípadě zhotovitel stavby (projektant odpovídá jen za vady díla, a to do dvou let od jeho předání)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D25",
+  "d": [
+   "pouze dodavatel projektové dokumentace (a to i tehdy, prokáže-li, že vadu nezpůsobila chyba stavební dokumentace); subdodavatel zhotovitele ani osoba provádějící stavební dozor vedle zhotovitele neodpovídají, neboť jsou zavázáni jen svému smluvnímu partnerovi",
+   "subdodavatel (ledaže prokáže, že vadu nezavinil), dodavatel projektové dokumentace (ledaže prokáže, že projektovou dokumentaci ověřil stavební úřad) a osoba provádějící stavební dozor (ledaže prokáže, že ji zvolil objednatel)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D26",
+  "d": [
+   "pokud prokáže, že vadu způsobil jen jeho subdodavatel nebo dodavatel stavebních výrobků, a to i tehdy, vybral-li si je zhotovitel sám, anebo prokáže-li, že vadu nezavinil",
+   "pokud prokáže, že vadu způsobila jen chyba ve stavební dokumentaci, kterou si zhotovitel sám opatřil, nebo jen selhání dozoru nad stavbou vykonávaného osobou, kterou si zvolil zhotovitel"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D27",
+  "d": [
+   "Majitel sousedního domu má nárok na náhradu škody pouze tehdy, pokud zhotovitel porušil právní povinnost (např. nepostupoval podle projektové dokumentace) a škodu zavinil",
+   "Majitel sousedního domu má nárok jen na náhradu škody přesahující míru přiměřenou místním poměrům, neboť škodu do této míry je jako soused povinen snášet"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D28",
+  "d": [
+   "je povinen nahradit škodu jen tehdy, prokáže-li mu vlastník vodovodu zavinění. Povinnosti k náhradě škody se zprostí, prokáže-li, že postupoval podle ověřené projektové dokumentace",
+   "není povinen nahradit škodu, pokud k poškození došlo při pracích prováděných na základě povolení stavby. Škodu v takovém případě nese vlastník vodovodu sám"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D29",
+  "d": [
+   "k jakémukoli účelu, i pro další stavby",
+   "jen po dobu provádění stavby"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D30",
+  "d": [
+   "nemůže, neboť soused smí na svém pozemku zřídit jakoukoli stavbu, k níž mu stavební úřad vydal povolení",
+   "může, má-li proto rozumný důvod, a to bez ohledu na vzdálenost stavby od společné hranice pozemků"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D31",
+  "d": [
+   "nejsou společné",
+   "patří zřizovateli"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D32",
+  "d": [
+   "jsou součástí pozemku, na němž nebo pod nímž jsou umístěny",
+   "jsou příslušenstvím pozemků, které zasahují"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D33",
+  "d": [
+   "účinností zástavní smlouvy",
+   "zápisem do rejstříku zástav"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D34",
+  "d": [
+   "vzniká účinností smlouvy o zřízení služebnosti a lze je zřídit pouze ve prospěch určitého pozemku, nikoli ve prospěch určité osoby",
+   "vzniká zápisem do katastru nemovitostí a lze je zřídit jen ve prospěch určité osoby (služebnost pak smrtí oprávněné osoby nezaniká, ale přechází na všechny její dědice)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D35",
+  "d": [
+   "stavba je samostatnou věcí ve vlastnictví stavebníka, který ji zřídil",
+   "stavba se stává podílovým spoluvlastnictvím stavebníka a vlastníka pozemku"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D36",
+  "d": [
+   "představuje obligační (závazkové) právo stavebníka užívat cizí pozemek k provedení stavby na základě nájemní smlouvy",
+   "představuje veřejnoprávní oprávnění stavebníka provést stavbu, vznikající na základě povolení stavebního úřadu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D37",
+  "d": [
+   "3 roky pro řádné vydržení a 6 let pro mimořádné vydržení",
+   "5 let pro řádné vydržení a 10 let pro mimořádné vydržení"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D38",
+  "d": [
+   "zřizovatel stavby se stane vlastníkem zastavěné části cizího pozemku bez ohledu na svou dobrou víru, a to bez povinnosti cokoli nahradit",
+   "zřizovatel stavby je povinen přestavek na svůj náklad odstranit, a to i tehdy, pokud stavěl v dobré víře"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D39",
+  "d": [
+   "každé zaviněné porušení právní povinnosti, kterým byla jinému způsobena škoda na majetku nebo újma na zdraví a za které lze uložit pokutu",
+   "každý čin nebezpečný pro společnost, jehož znaky jsou uvedeny v trestním zákoníku nebo v jiném zákoně, např. ve stavebním zákoně"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D40",
+  "d": [
+   "byl-li spáchán alespoň z nedbalosti; úmyslné zavinění se vyžaduje jen tehdy, jestliže to trestní zákoník výslovně stanoví",
+   "byl-li spáchán úmyslně nebo z nedbalosti, a to u všech trestných činů bez rozdílu, pokud jím vznikla škoda"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D41",
+  "d": [
+   "chtěl svým jednáním (opomenutím) způsobit škodlivý následek, nebo věděl, že jej může způsobit, a pro případ, že jej způsobí, byl s tím srozuměn, přičemž srozuměním se rozumí i smíření s tím, že takový následek může způsobit (např. stavbyvedoucí vědomě nezajistí stěny výkopu proti sesutí)",
+   "věděl, že svým jednáním (opomenutím) škodlivý následek způsobí, a přesto jej z lehkomyslnosti způsobil, nebo nevěděl, že svým jednáním (opomenutím) takový následek může způsobit, a vzhledem k okolnostem a k svým osobním poměrům (např. zastávané funkci stavbyvedoucího) o tom ani vědět nemohl"
+  ],
+  "note": "§ 16 odst. 1 písm. b) TZ vyžaduje kumulativně, aby pachatel o možnosti následku „vědět měl a mohl“; oficiální odpověď uvádí „vědět měl nebo mohl“."
+ },
+ {
+  "id": "D42",
+  "d": [
+   "proti odpovědným osobám nemůže být vedeno trestní stíhání, neboť následek nezpůsobily úmyslně; lze je postihnout jen za přestupek podle stavebního zákona. Poškozené osoby (např. pozůstalí) mohou požadovat náhradu škody výhradně v občanskoprávním řízení",
+   "trestní stíhání může být vedeno jen proti projektantovi, který vadnou dokumentaci zpracoval, nikoli proti zhotoviteli, který odpovídá pouze za vady díla. Poškozené osoby (např. pozůstalí) mohou náhradu škody požadovat, jen bude-li projektant pravomocně odsouzen"
+  ],
+  "note": ""
+ },
+ {
+  "id": "D43",
+  "d": [
+   "trestní stíhání může být vedeno pouze vůči fyzickým osobám (např. projektant, zhotovitel, subdodavatel), neboť právnické osoby nemohou být trestně odpovědné; lze jim uložit jen pokutu ve správním řízení",
+   "trestní stíhání může být vedeno pouze proti právnickým osobám (např. projekční kancelář, stavební společnost), nikoli proti jejich zaměstnancům, kteří odpovídají jen zaměstnavateli v rámci pracovněprávních vztahů"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E1",
+  "d": [
+   "veřejné zakázky na dodávky, veřejné zakázky na služby, veřejné zakázky na stavební práce, veřejné zakázky na projektové práce a veřejné zakázky na inženýrskou činnost",
+   "nadlimitní veřejné zakázky, podlimitní veřejné zakázky, veřejné zakázky malého rozsahu, koncese na služby a koncese na stavební práce"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E2",
+  "d": [
+   "nadlimitní veřejné zakázky, podlimitní veřejné zakázky a veřejné zakázky ve zjednodušeném režimu",
+   "veřejné zakázky velkého rozsahu, veřejné zakázky středního rozsahu a veřejné zakázky malého rozsahu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E3",
+  "d": [
+   "v případě veřejné zakázky na dodávky nebo veřejné zakázky na služby nižší nebo rovna částce 5 mil. Kč, v případě veřejné zakázky na stavební práce nižší nebo rovna částce 15 mil. Kč",
+   "v případě veřejné zakázky na dodávky, veřejné zakázky na služby i veřejné zakázky na stavební práce shodně nižší nebo rovna částce 6 mil. Kč, a to bez ohledu na předmět plnění"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E4",
+  "d": [
+   "zahrnuje DPH",
+   "nezahrnuje vyhrazené změny"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E5",
+  "d": [
+   "otevřené řízení, užší řízení, jednací řízení s uveřejněním, jednací řízení bez uveřejnění, zjednodušené podlimitní řízení, řízení se soutěžním dialogem, soutěž o návrh, dynamický nákupní systém a elektronická aukce",
+   "otevřené řízení, užší řízení, jednací řízení s uveřejněním, jednací řízení bez uveřejnění, zjednodušené podlimitní řízení, řízení se soutěžním dialogem, řízení o inovačním partnerství, koncesní řízení a výběrové řízení na veřejnou zakázku malého rozsahu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E6",
+  "d": [
+   "podlimitní veřejné zakázky na dodávky nebo na služby, nebo podlimitní veřejné zakázky na stavební práce, jejíž předpokládaná hodnota je nižší nebo rovna částce 100 mil. Kč",
+   "pouze podlimitní veřejné zakázky na stavební práce, a to bez ohledu na její předpokládanou hodnotu, nikoli však podlimitní veřejné zakázky na dodávky nebo na služby"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E7",
+  "d": [
+   "poskytnutí projektových činností, a to i tehdy, pokud jsou zadávány samostatně bez stavebních prací",
+   "pořízení stavebních materiálů a výrobků, a to i tehdy, pokud nejsou zadávány společně se stavebními pracemi"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E8",
+  "d": [
+   "každé stavební dílo vzniklé stavební nebo montážní technologií, k jehož provedení je třeba povolení záměru podle stavebního zákona",
+   "výsledek stavebních nebo montážních prací řešený jednou projektovou dokumentací, a to bez ohledu na to, zda je sám o sobě dostatečný k plnění hospodářské nebo technické funkce"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E9",
+  "d": [
+   "dokumentaci pro povolení stavby a položkový rozpočet stavby s oceněním jednotlivých položek, a to v rozsahu stanoveném vyhláškou Ministerstva pro místní rozvoj; tyto dokumenty nelze nahradit požadavky na výkon nebo funkci",
+   "dokumentaci a soupis stavebních prací, dodávek a služeb s výkazem výměr, a to v rozsahu stanoveném stavebním zákonem; tyto dokumenty mohou být nahrazeny požadavky na výkon nebo funkci jen u veřejných zakázek malého rozsahu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E10",
+  "d": [
+   "stavbu v podrobnostech potřebných pro povolení stavby, zejména její umístění, základní technické a provozní parametry a vliv na okolí, přičemž soupis stavebních prací, dodávek a služeb s výkazem výměr vyhotovuje až vybraný dodavatel v rámci realizační dokumentace",
+   "stavbu v podrobnostech výrobní a dílenské dokumentace zhotovitele, včetně technologických postupů jednotlivých prací, a současně stanoví předpokládanou cenu stavby, kterou účastník zadávacího řízení nesmí v nabídce překročit"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E11",
+  "d": [
+   "projektové dokumentaci pro povolení stavby nebo projektové dokumentaci pro povolení dopravní stavby nebo dokumentaci pro rámcové povolení, a to podle vyhlášky o dokumentaci staveb nebo vyhlášky o rozsahu a obsahu projektové dokumentace dopravních staveb",
+   "dokumentaci skutečného provedení stavby nebo dílenské a výrobní dokumentaci zhotovitele stavby, a to podle vyhlášky o dokumentaci staveb nebo podle technických norem upravujících provádění staveb"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E12",
+  "d": [
+   "nezávisle na dokumentaci pro zadání stavebních prací ocenění všech předpokládaných stavebních prací, dodávek nebo služeb jednotkovými cenami stanovenými zadavatelem, které účastníci nesmějí v nabídce měnit",
+   "v přímé návaznosti na dokumentaci pro zadání stavebních prací souhrnný popis pouze hlavních stavebních objektů a provozních souborů, přičemž podrobný popis jednotlivých prací, dodávek a služeb zpracovává až vybraný dodavatel"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E13",
+  "d": [
+   "základní způsobilosti, profesní způsobilosti, ekonomické kvalifikace a technické kvalifikace, a dále jakýchkoli dalších kritérií kvalifikace, která si zadavatel stanoví nad rámec zákona",
+   "pouze základní způsobilosti a profesní způsobilosti; ekonomickou a technickou kvalifikaci zadavatel u nadlimitní veřejné zakázky požadovat nesmí"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E14",
+  "d": [
+   "musí být ekonomická výhodnost stanovena pouze na základě nejnižší nabídkové ceny",
+   "musí být ekonomická výhodnost hodnocena pouze podle kvality při pevně stanovené ceně"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E15",
+  "d": [
+   "výše smluvní pokuty, kterou dodavatel nabídne pro případ prodlení s plněním veřejné zakázky, nebo délka lhůty splatnosti faktur, kterou dodavatel zadavateli poskytne",
+   "celkový roční obrat dodavatele a počet jeho zaměstnanců za poslední tři účetní období, pokud tyto údaje prokazují ekonomickou stabilitu dodavatele"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E16",
+  "d": [
+   "směřující k uzavření smlouvy na zhotovení stavby s dodavatelem, jehož projekt a nabídková cena budou porotou vyhodnoceny jako ekonomicky nejvýhodnější",
+   "směřující k získání nabídek na zpracování projektové dokumentace, které se hodnotí výhradně podle nejnižší nabídkové ceny, zejména v oblasti územního plánování nebo architektonických služeb"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E17",
+  "d": [
+   "otevřenou soutěž o návrh a jednací soutěž o návrh",
+   "ideovou soutěž o návrh a projektovou soutěž o návrh"
+  ],
+  "note": ""
+ },
+ {
+  "id": "E18",
+  "d": [
+   "uzavření úplatné smlouvy, kterou zadavatel zadá provedení stavebních prací dodavateli, přičemž protiplnění spočívá výhradně v pevně sjednané platbě hrazené zadavatelem v pravidelných splátkách po dobu provozování stavby, a to s podmínkou, že provozní riziko spojené s provozováním stavby nese nadále zadavatel",
+   "uzavření úplatné smlouvy, kterou zadavatel zadá provedení stavebních prací dodavateli, přičemž protiplnění spočívá v právu na braní užitků vyplývajících z provozování provedené stavby, a to s podmínkou, že zadavatel dodavateli zaručí návratnost investic a nákladů vynaložených na provedení a provozování stavby"
+  ],
+  "note": ""
+ }
 ]

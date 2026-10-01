@@ -16,7 +16,7 @@ import re
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from laws import CITATION_FIXES, LAW_NOTES, LAWS, parse_citation  # noqa: E402
+from laws import CITATION_FIXES, EXTRA_REFS, LAW_NOTES, LAWS, parse_citation  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
@@ -57,10 +57,12 @@ def main():
                 else:
                     fr["fix"] = True
                     refs.append(fr)
+        for extra in EXTRA_REFS.get(q["id"], []):
+            refs.append({"detail": "", "hl": {}, **extra})
         for r in refs:
             if r["law"]:
                 r["short"] = LAWS[r["law"]][1]
-                if r["kind"] in ("par", "annex", "art") and f"{r['kind']}:{r['id']}" not in laws.get(r["law"], {}).get("units", {}):
+                if r["kind"] in ("par", "annex", "art", "row") and f"{r['kind']}:{r['id']}" not in laws.get(r["law"], {}).get("units", {}):
                     warnings.append(f"{q['id']}: chybí text {r['law']} {r['kind']}:{r['id']}")
         item = {k: q[k] for k in ("id", "okruh", "num", "part", "q", "a", "src", "page")}
         item["refs"] = refs

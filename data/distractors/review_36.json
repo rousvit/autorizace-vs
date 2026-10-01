@@ -1,0 +1,30 @@
+[
+  {
+    "id": "B35",
+    "i": 1,
+    "problem": "IMPLAUSIBLE",
+    "reason": "Absurdní mechanická negace správné odpovědi: ve výtahové šachtě je nutně umístěn sám výtah a jeho vedení, § 33 odst. 1 a 2 PV zakazuje jen vedení a zařízení nesouvisející s provozem výtahu a šachty. Takovou možnost vyloučí i uchazeč bez znalosti předpisu.",
+    "replacement": "nesmí být umístěno potrubí plynu ani vody, lze v nich však umístit elektrická a komunikační vedení budovy"
+  },
+  {
+    "id": "C4",
+    "i": 1,
+    "problem": "POSSIBLY_CORRECT",
+    "reason": "Podle § 156 odst. 2 stavebního zákona (283/2021 Sb.) může dokumentaci jednoduchých staveb (kromě staveb pro bydlení a rodinnou rekreaci a vodních děl) a pasport stavby zpracovat i osoba s VŠ vzděláním stavebního nebo architektonického směru a alespoň 3 roky praxe. Distraktor je tedy v běžném zvláštním případě pravdivý a znalý uchazeč jej může obhajovat.",
+    "replacement": "pokud zajistí výkon těchto činností osobami s osvědčením odborné způsobilosti vydaným ministerstvem"
+  },
+  {
+    "id": "C21",
+    "i": 0,
+    "problem": "IMPLAUSIBLE",
+    "reason": "Přímý protiklad samotného pojmu „svobodný“ (výkon v pracovním poměru, jménem a na odpovědnost zaměstnavatele), takže jej vyloučí každý i bez znalosti § 15. Náhrada je nesprávná podle § 15 odst. 1 písm. c), podle něhož je svobodný architekt nebo inženýr oprávněn zaměstnávat další osoby.",
+    "replacement": "projektovou činnost a poskytuje související odborné služby nezávisle a vlastním jménem, avšak výhradně osobně, bez možnosti zaměstnávat další osoby"
+  },
+  {
+    "id": "H41",
+    "i": 1,
+    "problem": "DUPLICATE",
+    "reason": "„doporučené“ znamená v podstatě totéž co druhý distraktor „dobrovolné“ (obojí = nepovinné). Dvojice synonym tak prozradí jedinou odlišnou možnost „povinné“ (čl. 4 odst. 1 CPR).",
+    "replacement": "povinné jen u výrobků pro nosné konstrukce"
+  }
+]

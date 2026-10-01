@@ -1,61 +1,474 @@
 [
-  {"id": "H1", "d": ["jsou obecně závazné pro všechny osoby", "musí být vyhlášeny ve Sbírce zákonů"], "note": ""},
-  {"id": "H2", "d": ["je dokument schválený Ministerstvem průmyslu a obchodu (MPO), označený ČSN a vyhlášený ve Sbírce zákonů České republiky", "je obecně závazný dokument schválený Českou agenturou pro standardizaci (ČAS), označený ČSN a vyhlášený nařízením vlády"], "note": ""},
-  {"id": "H3", "d": ["je obecně závazná", "je závazná pro výrobce"], "note": ""},
-  {"id": "H4", "d": ["vyhlášená ve Sbírce zákonů České republiky jako příloha příslušného nařízení vlády, a proto obecně závazná", "oznámená v Úředním věstníku Evropské unie Evropskou komisí k příslušnému nařízení Evropského parlamentu a Rady"], "note": ""},
-  {"id": "H5", "d": ["která plně přejímá požadavky evropského dokumentu pro posuzování (EAD)", "která je obecně závazná, protože ji schválila Evropská komise"], "note": ""},
-  {"id": "H6", "d": ["původní české technické normy, oborové normy a podnikové normy registrované Úřadem pro technickou normalizaci, metrologii a státní zkušebnictví", "pouze evropské a mezinárodní normy přejaté překladem do českého jazyka; normy přejaté v původním jazyce ani původní české normy do soustavy nepatří"], "note": ""},
-  {"id": "H7", "d": ["je bezplatný přístup ke všem platným ČSN, který Česká agentura pro standardizaci poskytuje každému bez nutnosti registrace", "je zvýhodněný přístup ke všem ČSN pro členy profesních komor, za který část poplatku hradí Ministerstvo průmyslu a obchodu"], "note": ""},
-  {"id": "H8", "d": ["Evropská unie", "Hospodářská komora"], "note": ""},
-  {"id": "H9", "d": ["Ministerstvo průmyslu a obchodu České republiky", "Český institut pro akreditaci, obecně prospěšná společnost"], "note": "Podle aktuálního § 5 odst. 2 zajišťuje úkoly národního normalizačního orgánu i tvorbu, vydávání a distribuci ČSN Česká agentura pro standardizaci; oficiální odpověď uvádí ÚNMZ. ČAS proto nebyla použita jako distraktor."},
-  {"id": "H10", "d": ["organizační složka státu podřízená Ministerstvu průmyslu a obchodu, která vykonává dozor nad uváděním stanovených výrobků a stavebních výrobků s označením CE na trh", "obecně prospěšná společnost založená Úřadem pro technickou normalizaci, metrologii a státní zkušebnictví, která uděluje právnickým osobám autorizaci k posuzování shody výrobků"], "note": ""},
-  {"id": "H11", "d": ["zákona č. 22/1997 Sb., o technických požadavcích na výrobky, nařízení vlády č. 163/2002 Sb., kterým se stanoví technické požadavky na vybrané stavební výrobky, a směrnice Rady 89/106/EHS ze dne 21. prosince 1988 o sbližování právních a správních předpisů členských států týkajících se stavebních výrobků", "zákona č. 283/2021 Sb., stavební zákon, vyhlášky č. 146/2024 Sb., o požadavcích na výstavbu, a zákona č. 360/1992 Sb., o výkonu povolání autorizovaných architektů a o výkonu povolání autorizovaných inženýrů a techniků činných ve výstavbě"], "note": ""},
-  {"id": "H12", "d": ["představuje zvýšenou míru ohrožení oprávněného zájmu, je stanoven vyhláškou Ministerstva průmyslu a obchodu a musí mít certifikát autorizované osoby", "je opatřen označením CE, vztahuje se na něj harmonizovaná norma a musí k němu být vypracováno prohlášení o vlastnostech"], "note": ""},
-  {"id": "H13", "d": ["příloha č. 1 nařízení vlády č. 163/2002 Sb., kterým se stanoví technické požadavky na vybrané stavební výrobky", "příloha V nařízení EP a Rady (EU) č. 305/2011, kterým se stanoví harmonizované podmínky pro uvádění stavebních výrobků na trh"], "note": ""},
-  {"id": "H14", "d": ["je určený pro dočasné zabudování do stavby, vyjmutím nebo výměnou výrobku se vlastnosti stavby nemění, přičemž vyjmutí nebo výměna výrobku není stavební činností", "je jakýkoli výrobek dodávaný na staveniště, který je opatřen označením CE a jehož vlastnosti jsou uvedeny v prohlášení o vlastnostech vypracovaném výrobcem"], "note": ""},
-  {"id": "H15", "d": ["systémy 1+, 1, 2+, 3 a 4 posuzování a ověřování stálosti vlastností výrobku", "certifikace, akreditace, autorizace a evropské technické posouzení (ETA)"], "note": ""},
-  {"id": "H16", "d": ["oprávnění fyzické osoby k výkonu vybraných činností ve výstavbě udělené Českou komorou autorizovaných inženýrů a techniků činných ve výstavbě (autorizovaná osoba)", "formální uznání způsobilosti právnické osoby k provádění zkoušek a kalibrací, které vydává národní akreditační orgán na základě posouzení podle harmonizovaných norem (akreditovaná osoba)"], "note": ""},
-  {"id": "H17", "d": ["činnost výrobce nebo dovozce, při níž se vydáním prohlášení o shodě osvědčí, že příslušný výrobek nebo činnosti související s jeho výrobou jsou v souladu s technickými požadavky stanovenými v nařízení vlády", "činnost Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví, při níž se vydáním rozhodnutí osvědčí, že právnická osoba je způsobilá provádět posuzování shody výrobků v rozsahu uvedeném v rozhodnutí"], "note": ""},
-  {"id": "H18", "d": ["je fyzická osoba, která vykonává vybrané činnosti ve výstavbě v rozsahu autorizace udělené ČKAIT", "je právnická osoba, která zajišťuje činnosti v rozsahu vymezeném v osvědčení o akreditaci"], "note": ""},
-  {"id": "H19", "d": ["právnická osoba, která získala autorizaci Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví k posuzování shody stanovených stavebních výrobků podle nařízení vlády č. 163/2002 Sb., kterým se stanoví technické požadavky na vybrané stavební výrobky, a byla zapsána do seznamu autorizovaných osob", "právnická osoba, která získala osvědčení o akreditaci od Českého institutu pro akreditaci k provádění zkoušek stavebních výrobků podle harmonizovaných norem k nařízení EP a Rady (EU) č. 305/2011, kterým se stanoví harmonizované podmínky pro uvádění stavebních výrobků na trh a kterým se zrušuje směrnice Rady 89/106/EHS, a byla zapsána do registru akreditovaných subjektů"], "note": ""},
-  {"id": "H20", "d": ["harmonizované normy a evropská technická posouzení", "určené normy a stavební technická osvědčení autorizovaných osob"], "note": ""},
-  {"id": "H21", "d": ["charakteristiky (např. obchodní název, způsob balení, záruční doba), které výrobce uvádí v obchodní a technické dokumentaci výrobku", "charakteristiky (např. pevnost v tlaku, mrazuvzdornost, neprůzvučnost, vodotěsnost), které se vztahují k požadavkům objednatele uvedeným ve smlouvě o dílo"], "note": ""},
-  {"id": "H22", "d": ["technické požadavky na provádění staveb a stanoví pravidla pro navrhování nosných konstrukcí staveb podle eurokódů v členských státech Evropské unie", "podmínky pro uvádění stavebních výrobků na trh České republiky a stanoví pravidla pro používání české značky shody CCZ u těchto výrobků"], "note": ""},
-  {"id": "H23", "d": ["směrnici Rady 89/106/EHS ze dne 21. prosince 1988 o sbližování právních a správních předpisů členských států týkajících se stavebních výrobků", "nařízení EP a Rady (ES) č. 765/2008, kterým se stanoví požadavky na akreditaci a dozor nad trhem týkající se uvádění výrobků na trh"], "note": ""},
-  {"id": "H24", "d": ["uvádí shodu stanovených stavebních výrobků se základními požadavky podle nařízení vlády č. 163/2002 Sb. a opravňuje jejich označení českou značkou shody CCZ", "uvádí vlastnosti stavebních výrobků ve vztahu k základním charakteristikám v souladu s určenými normami a vypracovává je oznámený subjekt na základě certifikace výrobku"], "note": ""},
-  {"id": "H25", "d": ["pro které byla vydána harmonizovaná norma nebo evropské technické posouzení a jsou opatřeny označením CE", "pro které existuje určená norma a jsou uvedeny v příloze č. 1 tohoto nařízení vlády"], "note": ""},
-  {"id": "H26", "d": ["stanovených v příloze III nařízení EP a Rady (EU) č. 305/2011, kterým se stanoví harmonizované podmínky pro uvádění stavebních výrobků na trh", "stanovených v zákoně č. 283/2021 Sb., stavební zákon, a ve vyhlášce č. 146/2024 Sb., o požadavcích na výstavbu"], "note": ""},
-  {"id": "H27", "d": ["je osoba usazená v členském státě Evropské unie, která byla písemně pověřena k jednání za osobu, jež výrobek navrhla nebo vyrobila", "je výhradně osoba, která výrobek fyzicky vyrábí; osoba, která jej pouze navrhla, se za výrobce nepovažuje"], "note": ""},
-  {"id": "H28", "d": ["je osoba usazená v České republice, která uvede na trh výrobek z jiného členského státu Evropské unie", "je osoba usazená mimo Evropskou unii, která dodává výrobky na trh Evropské unie prostřednictvím distributora"], "note": ""},
-  {"id": "H29", "d": ["je ten, kdo jako první uvádí výrobky na trh Evropské unie", "je ten, kdo je výrobcem písemně pověřen jednat jeho jménem"], "note": ""},
-  {"id": "H30", "d": ["každé dodání výrobku na trh v rámci obchodní činnosti, kterým se rozumí předání za účelem jeho distribuce, používání nebo spotřeby na trhu Evropské unie", "okamžik, kdy je výrobek poprvé použit uživatelem v členských státech Evropské unie k účelu, ke kterému byl zhotoven"], "note": ""},
-  {"id": "H31", "d": ["dovozce", "oznámený subjekt"], "note": ""},
-  {"id": "H32", "d": ["se na stavební výrobek vztahuje určená norma nebo pro něj autorizovaná osoba vydala stavební technické osvědčení (STO)", "je stavební výrobek vyroben jednotlivě nebo nesériově na zakázku a je nainstalován do jedné konkrétní stavby výrobcem"], "note": ""},
-  {"id": "H33", "d": ["Ministerstva pro místní rozvoj, Portálu stavebníka v části věnované stavebním výrobkům", "České obchodní inspekce, informačním portálu pro dozor nad stavebními výrobky na trhu"], "note": ""},
-  {"id": "H34", "d": ["v anglickém jazyce", "v jazyce výrobce"], "note": ""},
-  {"id": "H35", "d": ["pouze v tištěné podobě ke každému dodanému kusu výrobku", "výhradně elektronickými prostředky na internetové stránce výrobce"], "note": ""},
-  {"id": "H36", "d": ["v elektronické podobě", "v ověřené kopii"], "note": ""},
-  {"id": "H37", "d": ["po dobu 5 let", "po dobu 15 let"], "note": ""},
-  {"id": "H38", "d": ["k prohlášení o vlastnostech. Pokud to vzhledem k povaze výrobku není možné nebo odůvodněné, připojí se k obalu nebo k dodacímu listu", "k obalu nebo k průvodní dokumentaci. Pokud to vzhledem k povaze výrobku není možné nebo odůvodněné, připojí se k výrobku nebo k jeho štítku"], "note": ""},
-  {"id": "H39", "d": ["v článku 37 nařízení EP a Rady (EU) č. 305/2011, kterým se stanoví harmonizované podmínky pro uvádění stavebních výrobků na trh a kterým se zrušuje směrnice Rady 89/106/EHS", "v § 9 nařízení vlády č. 163/2002 Sb., kterým se stanoví technické požadavky na vybrané stavební výrobky, upravujícím posouzení shody při kusové výrobě"], "note": ""},
-  {"id": "H40", "d": ["musí být ke stavebnímu výrobku připojena česká značka shody CCZ", "lze označení CE připojit na základě prohlášení o shodě"], "note": ""},
-  {"id": "H41", "d": ["dobrovolné", "doporučené"], "note": ""},
-  {"id": "H42", "d": ["povinné", "povinné, chybí-li harmonizovaná norma"], "note": ""},
-  {"id": "H43", "d": ["Ministerstvo pro místní rozvoj", "Ministerstvo průmyslu a obchodu"], "note": ""},
-  {"id": "H44", "d": ["připojí označení CE k výrobku nebo k jeho štítku", "vypracuje k výrobku prohlášení o vlastnostech"], "note": ""},
-  {"id": "H45", "d": ["ověření shody výrobku autorizovanou osobou podle § 7", "posouzení shody výrobcem nebo dovozcem podle § 8"], "note": ""},
-  {"id": "H46", "d": ["k prohlášení o shodě. Pokud to vzhledem k povaze výrobku není možné nebo odůvodněné, připojí se k certifikátu nebo k protokolu autorizované osoby.", "k průvodní dokumentaci. Pokud to vzhledem k povaze výrobku není možné nebo odůvodněné, připojí se k obalu nebo přímo k výrobku."], "note": ""},
-  {"id": "J7", "d": ["kategorie III, nebo u staveb, které mu k posouzení postoupí hasičský záchranný sbor kraje", "které se mají uskutečnit na území dvou nebo více okresů, nebo u staveb dopravní infrastruktury"], "note": ""},
-  {"id": "J18", "d": ["nejméně C-s2-d0, které splňují požadavek na šíření plamene podle české technické normy uvedené v příloze č. 1 části 11 bodu 2", "nejméně A2-s1-d0, které splňují požadavek na odkapávání a odpadávání podle české technické normy uvedené v příloze č. 1 části 11 bodu 1"], "note": ""},
-  {"id": "J40", "d": ["§ 27 vyhlášky č. 246/2001 Sb., o stanovení podmínek požární bezpečnosti a výkonu státního požárního dozoru (vyhláška o požární prevenci)", "§ 2 vyhlášky č. 460/2021 Sb., o kategorizaci staveb z hlediska požární bezpečnosti a ochrany obyvatelstva"], "note": ""},
-  {"id": "J41", "d": ["kategorie I a II", "kategorie II a III"], "note": ""},
-  {"id": "J42", "d": ["kategorie 0, I, II a III", "kategorie 0 a I"], "note": ""},
-  {"id": "J43", "d": ["stavbu kategorie I – představující nízké nebezpečí, stavbu kategorie II – představující střední nebezpečí, stavbu kategorie III – představující vysoké nebezpečí a stavbu kategorie IV – představující zvlášť vysoké nebezpečí", "stavbu kategorie 0 – nepředstavující zvláštní nebezpečí, stavbu kategorie I – představující vyšší nebezpečí, stavbu kategorie II – představující vysoké nebezpečí a stavbu kategorie III – představující zvlášť vysoké nebezpečí"], "note": ""},
-  {"id": "J44", "d": ["generální ředitelství Hasičského záchranného sboru ČR", "Specializovaný a odvolací stavební úřad"], "note": ""},
-  {"id": "J45", "d": ["ředitel hasičského záchranného sboru kraje, v jehož územním obvodu se stavba nachází", "Ministerstvo pro místní rozvoj jako ústřední orgán státní správy ve věcech stavebního řádu"], "note": ""},
-  {"id": "J46", "d": ["vyhláška č. 246/2001 Sb., o stanovení podmínek požární bezpečnosti a výkonu státního požárního dozoru (vyhláška o požární prevenci)", "vyhláška č. 23/2008 Sb., o technických podmínkách požární ochrany staveb"], "note": ""},
-  {"id": "J47", "d": ["stavebně technický parametr, podle kterého se hodnotí stavba na základě výšky stavby, zastavěné plochy, počtu podlaží a počtu osob, pro který je stavba určena, a to bez ohledu na způsob jejího využití", "kritérium, podle kterého se hodnotí stavba na základě přítomnosti nebezpečných látek nebo jiných rizikových faktorů, a to s ohledem na množství hořlavých látek vyráběných, zpracovávaných nebo skladovaných ve stavbě nebo v její části"], "note": ""},
-  {"id": "J48", "d": ["svislá vzdálenost od podlahy nejníže položeného nadzemního podlaží k podlaze nejvýše situovaného nadzemního podlaží", "celková výška stavby měřená od nejnižšího bodu přilehlého terénu po nejvyšší bod konstrukce stavby"], "note": ""},
-  {"id": "J49", "d": ["první třída využití", "čtvrtá třída využití"], "note": ""},
-  {"id": "J50", "d": ["po požárních úsecích, každý úsek zvlášť", "vždy jako soubor staveb, nikoli jednotlivě"], "note": ""}
+ {
+  "id": "H1",
+  "d": [
+   "jsou obecně závazné pro všechny osoby",
+   "musí být vyhlášeny ve Sbírce zákonů"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H2",
+  "d": [
+   "je dokument schválený Ministerstvem průmyslu a obchodu (MPO), označený ČSN a vyhlášený ve Sbírce zákonů České republiky",
+   "je obecně závazný dokument schválený Českou agenturou pro standardizaci (ČAS), označený ČSN a vyhlášený nařízením vlády"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H3",
+  "d": [
+   "je obecně závazná",
+   "je závazná pro výrobce"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H4",
+  "d": [
+   "vyhlášená ve Sbírce zákonů České republiky jako příloha příslušného nařízení vlády, a proto obecně závazná",
+   "oznámená v Úředním věstníku Evropské unie Evropskou komisí k příslušnému nařízení Evropského parlamentu a Rady"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H5",
+  "d": [
+   "která plně přejímá požadavky evropského dokumentu pro posuzování (EAD)",
+   "která je obecně závazná, protože ji schválila Evropská komise"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H6",
+  "d": [
+   "původní české technické normy, oborové normy a podnikové normy registrované Úřadem pro technickou normalizaci, metrologii a státní zkušebnictví",
+   "pouze evropské a mezinárodní normy přejaté překladem do českého jazyka; normy přejaté v původním jazyce ani původní české normy do soustavy nepatří"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H7",
+  "d": [
+   "je bezplatný přístup ke všem platným ČSN, který Česká agentura pro standardizaci poskytuje každému bez nutnosti registrace",
+   "je zvýhodněný přístup ke všem ČSN pro členy profesních komor, za který část poplatku hradí Ministerstvo průmyslu a obchodu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H8",
+  "d": [
+   "Evropská unie",
+   "Hospodářská komora"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H9",
+  "d": [
+   "Ministerstvo průmyslu a obchodu České republiky",
+   "Český institut pro akreditaci, obecně prospěšná společnost"
+  ],
+  "note": "Podle aktuálního § 5 odst. 2 zajišťuje úkoly národního normalizačního orgánu i tvorbu, vydávání a distribuci ČSN Česká agentura pro standardizaci; oficiální odpověď uvádí ÚNMZ. ČAS proto nebyla použita jako distraktor."
+ },
+ {
+  "id": "H10",
+  "d": [
+   "organizační složka státu podřízená Ministerstvu průmyslu a obchodu, která vykonává dozor nad uváděním stanovených výrobků a stavebních výrobků s označením CE na trh",
+   "obecně prospěšná společnost založená Úřadem pro technickou normalizaci, metrologii a státní zkušebnictví, která uděluje právnickým osobám autorizaci k posuzování shody výrobků"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H11",
+  "d": [
+   "zákona č. 22/1997 Sb., o technických požadavcích na výrobky, nařízení vlády č. 163/2002 Sb., kterým se stanoví technické požadavky na vybrané stavební výrobky, a směrnice Rady 89/106/EHS ze dne 21. prosince 1988 o sbližování právních a správních předpisů členských států týkajících se stavebních výrobků",
+   "zákona č. 283/2021 Sb., stavební zákon, vyhlášky č. 146/2024 Sb., o požadavcích na výstavbu, a zákona č. 360/1992 Sb., o výkonu povolání autorizovaných architektů a o výkonu povolání autorizovaných inženýrů a techniků činných ve výstavbě"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H12",
+  "d": [
+   "představuje zvýšenou míru ohrožení oprávněného zájmu, je stanoven vyhláškou Ministerstva průmyslu a obchodu a musí mít certifikát autorizované osoby",
+   "je opatřen označením CE, vztahuje se na něj harmonizovaná norma a musí k němu být vypracováno prohlášení o vlastnostech"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H13",
+  "d": [
+   "příloha č. 1 nařízení vlády č. 163/2002 Sb., kterým se stanoví technické požadavky na vybrané stavební výrobky",
+   "příloha V nařízení EP a Rady (EU) č. 305/2011, kterým se stanoví harmonizované podmínky pro uvádění stavebních výrobků na trh"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H14",
+  "d": [
+   "je určený pro dočasné zabudování do stavby, vyjmutím nebo výměnou výrobku se vlastnosti stavby nemění, přičemž vyjmutí nebo výměna výrobku není stavební činností",
+   "je jakýkoli výrobek dodávaný na staveniště, který je opatřen označením CE a jehož vlastnosti jsou uvedeny v prohlášení o vlastnostech vypracovaném výrobcem"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H15",
+  "d": [
+   "systémy 1+, 1, 2+, 3 a 4 posuzování a ověřování stálosti vlastností výrobku",
+   "certifikace, akreditace, autorizace a evropské technické posouzení (ETA)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H16",
+  "d": [
+   "oprávnění fyzické osoby k výkonu vybraných činností ve výstavbě udělené Českou komorou autorizovaných inženýrů a techniků činných ve výstavbě (autorizovaná osoba)",
+   "formální uznání způsobilosti právnické osoby k provádění zkoušek a kalibrací, které vydává národní akreditační orgán na základě posouzení podle harmonizovaných norem (akreditovaná osoba)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H17",
+  "d": [
+   "činnost výrobce nebo dovozce, při níž se vydáním prohlášení o shodě osvědčí, že příslušný výrobek nebo činnosti související s jeho výrobou jsou v souladu s technickými požadavky stanovenými v nařízení vlády",
+   "činnost Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví, při níž se vydáním rozhodnutí osvědčí, že právnická osoba je způsobilá provádět posuzování shody výrobků v rozsahu uvedeném v rozhodnutí"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H18",
+  "d": [
+   "je fyzická osoba, která vykonává vybrané činnosti ve výstavbě v rozsahu autorizace udělené ČKAIT",
+   "je právnická osoba, která zajišťuje činnosti v rozsahu vymezeném v osvědčení o akreditaci"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H19",
+  "d": [
+   "právnická osoba, která získala autorizaci Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví k posuzování shody stanovených stavebních výrobků podle nařízení vlády č. 163/2002 Sb., kterým se stanoví technické požadavky na vybrané stavební výrobky, a byla zapsána do seznamu autorizovaných osob",
+   "právnická osoba, která získala osvědčení o akreditaci od Českého institutu pro akreditaci k provádění zkoušek stavebních výrobků podle harmonizovaných norem k nařízení EP a Rady (EU) č. 305/2011, kterým se stanoví harmonizované podmínky pro uvádění stavebních výrobků na trh a kterým se zrušuje směrnice Rady 89/106/EHS, a byla zapsána do registru akreditovaných subjektů"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H20",
+  "d": [
+   "harmonizované normy a evropská technická posouzení",
+   "určené normy a stavební technická osvědčení autorizovaných osob"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H21",
+  "d": [
+   "charakteristiky (např. obchodní název, způsob balení, záruční doba), které výrobce uvádí v obchodní a technické dokumentaci výrobku",
+   "charakteristiky (např. pevnost v tlaku, mrazuvzdornost, neprůzvučnost, vodotěsnost), které se vztahují k požadavkům objednatele uvedeným ve smlouvě o dílo"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H22",
+  "d": [
+   "technické požadavky na provádění staveb a stanoví pravidla pro navrhování nosných konstrukcí staveb podle eurokódů v členských státech Evropské unie",
+   "podmínky pro uvádění stavebních výrobků na trh České republiky a stanoví pravidla pro používání české značky shody CCZ u těchto výrobků"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H23",
+  "d": [
+   "směrnici Rady 89/106/EHS ze dne 21. prosince 1988 o sbližování právních a správních předpisů členských států týkajících se stavebních výrobků",
+   "nařízení EP a Rady (ES) č. 765/2008, kterým se stanoví požadavky na akreditaci a dozor nad trhem týkající se uvádění výrobků na trh"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H24",
+  "d": [
+   "uvádí shodu stanovených stavebních výrobků se základními požadavky podle nařízení vlády č. 163/2002 Sb. a opravňuje jejich označení českou značkou shody CCZ",
+   "uvádí vlastnosti stavebních výrobků ve vztahu k základním charakteristikám v souladu s určenými normami a vypracovává je oznámený subjekt na základě certifikace výrobku"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H25",
+  "d": [
+   "pro které byla vydána harmonizovaná norma nebo evropské technické posouzení a jsou opatřeny označením CE",
+   "pro které existuje určená norma a jsou uvedeny v příloze č. 1 tohoto nařízení vlády"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H26",
+  "d": [
+   "stanovených v příloze III nařízení EP a Rady (EU) č. 305/2011, kterým se stanoví harmonizované podmínky pro uvádění stavebních výrobků na trh",
+   "stanovených v zákoně č. 283/2021 Sb., stavební zákon, a ve vyhlášce č. 146/2024 Sb., o požadavcích na výstavbu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H27",
+  "d": [
+   "je osoba usazená v členském státě Evropské unie, která byla písemně pověřena k jednání za osobu, jež výrobek navrhla nebo vyrobila",
+   "je výhradně osoba, která výrobek fyzicky vyrábí; osoba, která jej pouze navrhla, se za výrobce nepovažuje"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H28",
+  "d": [
+   "je osoba usazená v České republice, která uvede na trh výrobek z jiného členského státu Evropské unie",
+   "je osoba usazená mimo Evropskou unii, která dodává výrobky na trh Evropské unie prostřednictvím distributora"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H29",
+  "d": [
+   "je ten, kdo jako první uvádí výrobky na trh Evropské unie",
+   "je ten, kdo je výrobcem písemně pověřen jednat jeho jménem"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H30",
+  "d": [
+   "každé dodání výrobku na trh v rámci obchodní činnosti, kterým se rozumí předání za účelem jeho distribuce, používání nebo spotřeby na trhu Evropské unie",
+   "okamžik, kdy je výrobek poprvé použit uživatelem v členských státech Evropské unie k účelu, ke kterému byl zhotoven"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H31",
+  "d": [
+   "dovozce",
+   "oznámený subjekt"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H32",
+  "d": [
+   "se na stavební výrobek vztahuje určená norma nebo pro něj autorizovaná osoba vydala stavební technické osvědčení (STO)",
+   "je stavební výrobek vyroben jednotlivě nebo nesériově na zakázku a je nainstalován do jedné konkrétní stavby výrobcem"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H33",
+  "d": [
+   "Ministerstva pro místní rozvoj, Portálu stavebníka v části věnované stavebním výrobkům",
+   "České obchodní inspekce, informačním portálu pro dozor nad stavebními výrobky na trhu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H34",
+  "d": [
+   "v anglickém jazyce",
+   "v jazyce výrobce"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H35",
+  "d": [
+   "pouze v tištěné podobě ke každému dodanému kusu výrobku",
+   "výhradně elektronickými prostředky na internetové stránce výrobce"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H36",
+  "d": [
+   "v elektronické podobě",
+   "v ověřené kopii"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H37",
+  "d": [
+   "po dobu 5 let",
+   "po dobu 15 let"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H38",
+  "d": [
+   "k prohlášení o vlastnostech. Pokud to vzhledem k povaze výrobku není možné nebo odůvodněné, připojí se k obalu nebo k dodacímu listu",
+   "k obalu nebo k průvodní dokumentaci. Pokud to vzhledem k povaze výrobku není možné nebo odůvodněné, připojí se k výrobku nebo k jeho štítku"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H39",
+  "d": [
+   "v článku 37 nařízení EP a Rady (EU) č. 305/2011, kterým se stanoví harmonizované podmínky pro uvádění stavebních výrobků na trh a kterým se zrušuje směrnice Rady 89/106/EHS",
+   "v § 9 nařízení vlády č. 163/2002 Sb., kterým se stanoví technické požadavky na vybrané stavební výrobky, upravujícím posouzení shody při kusové výrobě"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H40",
+  "d": [
+   "musí být ke stavebnímu výrobku připojena česká značka shody CCZ",
+   "lze označení CE připojit na základě prohlášení o shodě"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H41",
+  "d": [
+   "dobrovolné",
+   "povinné jen u výrobků pro nosné konstrukce"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H42",
+  "d": [
+   "povinné",
+   "povinné, chybí-li harmonizovaná norma"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H43",
+  "d": [
+   "Ministerstvo pro místní rozvoj",
+   "Ministerstvo průmyslu a obchodu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H44",
+  "d": [
+   "připojí označení CE k výrobku nebo k jeho štítku",
+   "vypracuje k výrobku prohlášení o vlastnostech"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H45",
+  "d": [
+   "ověření shody výrobku autorizovanou osobou podle § 7",
+   "posouzení shody výrobcem nebo dovozcem podle § 8"
+  ],
+  "note": ""
+ },
+ {
+  "id": "H46",
+  "d": [
+   "k prohlášení o shodě. Pokud to vzhledem k povaze výrobku není možné nebo odůvodněné, připojí se k certifikátu nebo k protokolu autorizované osoby.",
+   "k průvodní dokumentaci. Pokud to vzhledem k povaze výrobku není možné nebo odůvodněné, připojí se k obalu nebo přímo k výrobku."
+  ],
+  "note": ""
+ },
+ {
+  "id": "J7",
+  "d": [
+   "kategorie III, nebo u staveb, které mu k posouzení postoupí hasičský záchranný sbor kraje",
+   "které se mají uskutečnit na území dvou nebo více okresů, nebo u staveb dopravní infrastruktury"
+  ],
+  "note": ""
+ },
+ {
+  "id": "J18",
+  "d": [
+   "nejméně C-s2-d0, které splňují požadavek na šíření plamene podle české technické normy uvedené v příloze č. 1 části 11 bodu 2",
+   "nejméně A2-s1-d0, které splňují požadavek na odkapávání a odpadávání podle české technické normy uvedené v příloze č. 1 části 11 bodu 1"
+  ],
+  "note": ""
+ },
+ {
+  "id": "J40",
+  "d": [
+   "§ 27 vyhlášky č. 246/2001 Sb., o stanovení podmínek požární bezpečnosti a výkonu státního požárního dozoru (vyhláška o požární prevenci)",
+   "§ 2 vyhlášky č. 460/2021 Sb., o kategorizaci staveb z hlediska požární bezpečnosti a ochrany obyvatelstva"
+  ],
+  "note": ""
+ },
+ {
+  "id": "J41",
+  "d": [
+   "kategorie I a II",
+   "kategorie II a III"
+  ],
+  "note": ""
+ },
+ {
+  "id": "J42",
+  "d": [
+   "kategorie 0, I, II a III",
+   "kategorie 0 a I"
+  ],
+  "note": ""
+ },
+ {
+  "id": "J43",
+  "d": [
+   "stavbu kategorie I – představující nízké nebezpečí, stavbu kategorie II – představující střední nebezpečí, stavbu kategorie III – představující vysoké nebezpečí a stavbu kategorie IV – představující zvlášť vysoké nebezpečí",
+   "stavbu kategorie 0 – nepředstavující zvláštní nebezpečí, stavbu kategorie I – představující vyšší nebezpečí, stavbu kategorie II – představující vysoké nebezpečí a stavbu kategorie III – představující zvlášť vysoké nebezpečí"
+  ],
+  "note": ""
+ },
+ {
+  "id": "J44",
+  "d": [
+   "generální ředitelství Hasičského záchranného sboru ČR",
+   "Specializovaný a odvolací stavební úřad"
+  ],
+  "note": ""
+ },
+ {
+  "id": "J45",
+  "d": [
+   "ředitel hasičského záchranného sboru kraje, v jehož územním obvodu se stavba nachází",
+   "Ministerstvo pro místní rozvoj jako ústřední orgán státní správy ve věcech stavebního řádu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "J46",
+  "d": [
+   "vyhláška č. 246/2001 Sb., o stanovení podmínek požární bezpečnosti a výkonu státního požárního dozoru (vyhláška o požární prevenci)",
+   "vyhláška č. 23/2008 Sb., o technických podmínkách požární ochrany staveb"
+  ],
+  "note": ""
+ },
+ {
+  "id": "J47",
+  "d": [
+   "stavebně technický parametr, podle kterého se hodnotí stavba na základě výšky stavby, zastavěné plochy, počtu podlaží a počtu osob, pro který je stavba určena, a to bez ohledu na způsob jejího využití",
+   "kritérium, podle kterého se hodnotí stavba na základě přítomnosti nebezpečných látek nebo jiných rizikových faktorů, a to s ohledem na množství hořlavých látek vyráběných, zpracovávaných nebo skladovaných ve stavbě nebo v její části"
+  ],
+  "note": ""
+ },
+ {
+  "id": "J48",
+  "d": [
+   "svislá vzdálenost od podlahy nejníže položeného nadzemního podlaží k podlaze nejvýše situovaného nadzemního podlaží",
+   "celková výška stavby měřená od nejnižšího bodu přilehlého terénu po nejvyšší bod konstrukce stavby"
+  ],
+  "note": ""
+ },
+ {
+  "id": "J49",
+  "d": [
+   "první třída využití",
+   "čtvrtá třída využití"
+  ],
+  "note": ""
+ },
+ {
+  "id": "J50",
+  "d": [
+   "po požárních úsecích, každý úsek zvlášť",
+   "vždy jako soubor staveb, nikoli jednotlivě"
+  ],
+  "note": ""
+ }
 ]

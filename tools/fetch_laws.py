@@ -19,7 +19,37 @@ import urllib.request
 from html.parser import HTMLParser
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from laws import CITATION_FIXES, LAWS, parse_citation  # noqa: E402
+from laws import CITATION_FIXES, EXTRA_REFS, LAWS, parse_citation  # noqa: E402
+
+# Řádky tabulek z příloh, na které odkazuje EXTRA_REFS:
+# klíč → (číslo přílohy, regulární výraz prvního sloupce, popisek)
+TABLE_ROWS = {
+    "sb/2008/278": {
+        "p2-provadeni-staveb": ("2", r"^Provádění staveb, jejich změn a odstraňování$", "Příloha č. 2 – živnost vázaná"),
+        "p4-70": ("4", r"^70\. ", "Příloha č. 4 – živnost volná, obor činnosti č. 70"),
+    },
+}
+
+
+def table_units(frags, rows):
+    """Vybrané řádky tabulek příloh jako samostatná „ustanovení“."""
+    units = {}
+    for key, (annex, first_col, label) in rows.items():
+        for fr in frags:
+            if not (fr["eli"] or "").split("/dokument", 1)[-1].startswith(f"/prilohy/priloha_{annex}/"):
+                continue
+            for tr in re.findall(r"<tr.*?</tr>", fr["xhtml"] or "", re.S):
+                cells = [clean(c) for c in re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", tr, re.S)]
+                plain = [html.unescape(re.sub(r"<[^>]+>", "", c)).strip() for c in cells]
+                if len(cells) >= 2 and re.search(first_col, plain[0]):
+                    # po větách, aby šla zvýraznit jen citovaná věta
+                    sentences = re.split(r"(?<=\.)\s+(?=[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ])", cells[1])
+                    units[f"row:{key}"] = {"label": label, "heading": plain[0],
+                                           "parts": [["text", "", 1, s] for s in sentences if s.strip()]}
+                    break
+        if f"row:{key}" not in units:
+            print(f"  ! řádek tabulky {key} nenalezen")
+    return units
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 CACHE = ROOT / "cache"
@@ -253,10 +283,11 @@ def main():
         refs, _ = parse_citation(qn["src"])
         if qn["id"] in CITATION_FIXES:
             refs += parse_citation(CITATION_FIXES[qn["id"]])[0]
+        refs += EXTRA_REFS.get(qn["id"], [])
         for r in refs:
             if r["law"]:
                 wanted.setdefault(r["law"], set())
-                if r["kind"] in ("par", "annex", "art"):
+                if r["kind"] in ("par", "annex", "art", "row"):
                     wanted[r["law"]].add(f"{r['kind']}:{r['id']}")
 
     only = sys.argv[sys.argv.index("--only") + 1].split(",") if "--only" in sys.argv else None
@@ -287,6 +318,8 @@ def main():
         if wanted[key]:
             frags = fetch_fragments(stale, refresh)
             units = build_units(frags, wanted[key])
+            if key in TABLE_ROWS:
+                units.update(table_units(frags, {k: v for k, v in TABLE_ROWS[key].items() if f"row:{k}" in wanted[key]}))
             # „příloha“ bez čísla = jediná příloha předpisu
             if "annex:" in wanted[key] and "annex:" not in units:
                 annexes = sorted({re.match(r"/prilohy/priloha_?([0-9a-z]*)", (f["eli"] or "").split("/dokument", 1)[-1]).group(1)

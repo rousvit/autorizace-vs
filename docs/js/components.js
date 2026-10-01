@@ -51,7 +51,8 @@ const KIND_LABEL = { par: (r) => `§ ${r.id}`, annex: (r) => (r.id ? `Příloha 
 export function refLabel(r) {
   if (r.kind === 'url') return 'Odkaz na web';
   const law = r.short || '';
-  if (r.kind === 'whole') return law;
+  if (r.label) return `${r.label}${law ? ` · ${law}` : ''}`;
+  if (r.kind === 'whole' || !KIND_LABEL[r.kind]) return law;
   const base = KIND_LABEL[r.kind](r);
   const det = r.kind === 'par' && r.detail ? ` ${r.detail}` : '';
   return `${base}${det}${law ? ` · ${law}` : ''}`;
@@ -137,6 +138,10 @@ export function questionsCiting(r) {
 function hlFlags(parts, hl) {
   const keys = hl ? Object.keys(hl) : [];
   if (!keys.length) return parts.map(() => false);
+  if (hl.match) {
+    const m = hl.match.toLowerCase();
+    return parts.map((p) => p[3].toLowerCase().includes(m));
+  }
   let curOdst = null;
   let curPism = null;
   return parts.map(([typ, num, , , path = '']) => {

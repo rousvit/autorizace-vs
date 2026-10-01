@@ -122,6 +122,17 @@ CITATION_FIXES = {
     "G3": "§ 4 zákona o vodovodech a kanalizacích",
 }
 
+# Doplňkové odkazy na řádky tabulek v přílohách (otázka cituje jen celý předpis).
+# Klíč „row:…“ vytváří fetch_laws.TABLE_ROWS z textu přílohy.
+EXTRA_REFS = {
+    "F18": [{"law": "sb/2008/278", "kind": "row", "id": "p2-provadeni-staveb", "label": "Příloha č. 2 – Provádění staveb",
+             "hl": {"match": "živností řemeslných"}}],
+    "F19": [{"law": "sb/2008/278", "kind": "row", "id": "p2-provadeni-staveb", "label": "Příloha č. 2 – Provádění staveb",
+             "hl": {"match": "vedení realizace staveb"}}],
+    "F20": [{"law": "sb/2008/278", "kind": "row", "id": "p4-70", "label": "Příloha č. 4 – obor 70",
+             "hl": {"match": "technického dozoru"}}],
+}
+
 # Poznámky k celým předpisům (zobrazí se u textu předpisu v aplikaci).
 LAW_NOTES = {
     "eu/2011/305": "Nařízení (EU) 2024/3110 (nové nařízení o stavebních výrobcích) postupně nahrazuje nařízení č. 305/2011 "

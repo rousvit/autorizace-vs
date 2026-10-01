@@ -1,474 +1,474 @@
 [
-  {
-    "id": "B6",
-    "d": [
-      "mechanická odolnost a stabilita, požární bezpečnost, hygiena a ochrana zdraví, ochrana proti hluku, bezpečnost při užívání, úspora energie a tepelná ochrana, soulad s územně plánovací dokumentací",
-      "mechanická odolnost a stabilita, požární bezpečnost, ochrana zdraví a životního prostředí, architektonická a urbanistická kvalita, bezpečnost a přístupnost při užívání, trvanlivost a životnost, hospodárnost provozu a údržby"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B19",
-    "d": [
-      "musí být zabezpečeny proti pádu osob pouze tehdy, je-li jejich hloubka větší než 1,5 m",
-      "musí být po celé délce zakryty pochozími lávkami s oboustranným zábradlím"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B20",
-    "d": [
-      "způsobem odpovídajícím základovým poměrům odvozeným z geologických map a z průzkumů provedených na sousedních pozemcích",
-      "způsobem, který stanoví stavební úřad v povolení stavby na základě vyjádření odborného geologa"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B35",
-    "d": [
-      "smí být umístěno vedení technické infrastruktury budovy, je-li chráněno požárně odolnou konstrukcí",
-      "nesmí být umístěno žádné vedení ani technické zařízení, a to ani takové, které souvisí s provozem výtahu nebo šachty"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B36",
-    "d": [
-      "musí být zajištěna pouze na vnějších pochozích plochách, schodištích a šikmých rampách a musí splňovat požadavky stanovené v příloze č. 9 vyhlášky o požadavcích na výstavbu",
-      "musí být zajištěna na podlahách a pochozích plochách jen ve stavbách občanského vybavení a musí splňovat požadavky stanovené v příloze č. 5 vyhlášky o požadavcích na výstavbu"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B37",
-    "d": [
-      "navržena a provedena opatření vylučující práci ve výškách, aby údržbu bylo možno provádět výhradně z úrovně terénu",
-      "stanovena organizační opatření vlastníka stavby a určen koordinátor bezpečnosti a ochrany zdraví při práci"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B54",
-    "d": [
-      "se stanovuje stavebním úřadem",
-      "se sjednává ve smlouvě o dílo"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B55",
-    "d": [
-      "umožňuje povolit výjimku z kteréhokoli svého ustanovení za podmínek stanovených v § 138 odst. 1 stavebního zákona",
-      "neobsahuje žádná ustanovení, ze kterých by bylo možné povolit výjimku, neboť její požadavky platí bez výjimky"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B66",
-    "d": [
-      "musí splňovat požadavky na stabilitu a odolnost pro běžný provozní zatěžovací stav účinků vody při průměrném ročním průtoku",
-      "musí splňovat požadavky na stabilitu a odolnost pouze pro účinky vody při povodni s dobou opakování 20 let (Q20), bez nahodilých zatížení"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B67",
-    "d": [
-      "posuzuje pouze únosnost a sedání základové půdy, změna průtokových poměrů se posuzuje až v manipulačním řádu.",
-      "posuzuje i možná změna průtokových poměrů, a to jen při průtoku Q100; změna režimu podzemních vod se neposuzuje."
-    ],
-    "note": ""
-  },
-  {
-    "id": "B68",
-    "d": [
-      "na maximální denní potřebu vody. Potrubí ostatních vodovodních řadů se navrhuje a provádí na maximální hodinovou potřebu vody",
-      "na maximální hodinovou potřebu vody. Potrubí ostatních vodovodních řadů se navrhuje a provádí na průměrnou denní potřebu vody"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B69",
-    "d": [
-      "vodní dílo nebo jeho část, sloužící pro převedení vody přes překážku",
-      "vodní dílo nebo jeho část, sloužící k tlumení energie vody pod překážkou"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B70",
-    "d": [
-      "teoretická povodňová vlna určená kulminačním průtokem s dobou opakování 100 let (Q100), bez zohlednění objemu a časového průběhu vlny",
-      "skutečná povodňová vlna, která byla v profilu vodního díla zaznamenána s nejvyšším dosud pozorovaným kulminačním průtokem"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B71",
-    "d": [
-      "v aktivní zóně záplavového území; v území chráněném podle jiného právního předpisu, v ochranných pásmech a v území se svahovými pohyby lze odkaliště navrhnout se souhlasem dotčeného orgánu",
-      "na pozemku zemědělského půdního fondu v I. a II. třídě ochrany, na pozemku určeném k plnění funkcí lesa a v území s výskytem poddolování nebo krasových jevů"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B72",
-    "d": [
-      "v takovém místě, kde je koryto vodního toku opevněno a kde je hladina vody ustálena vzdutím od jezu nebo jiné umělé překážky v korytě",
-      "zpravidla bezprostředně pod soutokem vodních toků nebo pod jezem, kde koryto vodního toku umožňuje zachytit celkový průtok vody z povodí"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B73",
-    "d": [
-      "se navrhuje a provádí tak, aby převedla nejvyšší historicky zaznamenaný průtok, bez ohledu na návrhový průtok",
-      "se navrhuje a provádí tak, aby její koruna byla vždy nejméně 0,5 m nad hladinou vody při stoleté povodni (Q100)"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B74",
-    "d": [
-      "smí propojovat s potrubím užitkové a provozní vody pouze přes zařízení zabraňující zpětnému toku vody, s potrubím z jiného zdroje vody bez omezení",
-      "smí propojovat s potrubím užitkové a provozní vody i s potrubím z jiného zdroje vody, pokud to v povolení stavby schválí vodoprávní úřad"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B75",
-    "d": [
-      "uloženo v nezámrzné hloubce nejméně 1,5 m pod úrovní terénu, provedeno výhradně z tvárné litiny nebo oceli s ochranou proti vnější i vnitřní korozi a opatřeno katodovou ochranou ve všech druzích prostředí",
-      "chráněno proti zamrznutí, poškození vnějšími vlivy a vnější korozi s ohledem na zatížení dopravou, hloubku uložení a prostředí, ve kterém bude potrubí uloženo; ochrana proti vnitřní korozi a vnikání látek se nepožaduje"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B76",
-    "d": [
-      "podle počtu ekvivalentních obyvatel, kapacity čistírny odpadních vod a podmínek stanovených v kanalizačním řádu",
-      "podle průměrného denního množství odpadních vod a stupně čištění požadovaného v povolení k vypouštění odpadních vod"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B77",
-    "d": [
-      "výhradně jako gravitační, s výjimkou výtlačných řadů čerpacích stanic",
-      "jako gravitační, tlaková nebo podtlaková, nikoli však jejich kombinace"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B78",
-    "d": [
-      "stanoví podrobnější požadavky na stokovou síť v části 5 přílohy č. 8 vyhlášky o požadavcích na výstavbu",
-      "stanoví podrobnější požadavky na stokovou síť v příloze č. 4 vyhlášky o požadavcích na výstavbu"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B79",
-    "d": [
-      "musí být navržena a provedena tak, aby vždy umožnila současnou instalaci malé vodní elektrárny. Dodatečná instalace zařízení pro využití energetického potenciálu povrchové vody se nepřipouští",
-      "musí být navržena a provedena s ohledem na využití energetického potenciálu povrchové vody jen tehdy, požádá-li o to správce vodního toku. Návrh jezu pak musí zahrnovat současnou instalaci zařízení pro jeho využití"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B80",
-    "d": [
-      "jsou stanoveny v části 9 přílohy č. 8 vyhlášky o požadavcích na výstavbu",
-      "jsou stanoveny v části 6 přílohy č. 8 vyhlášky o požadavcích na výstavbu"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B81",
-    "d": [
-      "se zpravidla navrhuje a provádí jako podzemní odvodnění sběrnými a svodnými drény. V odůvodněných případech se volí povrchové odvodnění sběrnými příkopy a objekty na nich",
-      "se zpravidla navrhuje a provádí jako odvodnění čerpáním do nejbližšího vodního toku. V odůvodněných případech se volí gravitační odvodnění sběrnými příkopy"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B82",
-    "d": [
-      "musí mít spodní hranu vtokového objektu ve vodní nádrži umístěnu níže než spodní hranu spodní výpusti, aby byl zajištěn odběr vody i při nízké hladině",
-      "musí vždy obsahovat vyrovnávací komoru, a to bez ohledu na délku přivaděče a na velikost a rychlost změn průtoku vody na přívodu vody nebo odpadu vody"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B83",
-    "d": [
-      "se navrhuje a provádí na dobu životnosti nejméně 50 let bez ohledu na předpokládanou dobu provozu zařízení produkujícího ukládaný odpad. Odkaliště a jeho objekty se navrhují a provádějí na co nejmenší zábor lokality. Součástí návrhu je výpočet předpokládaného množství srážkových vod odváděných z povrchu odkaliště a prokázání jejich nezávadnosti",
-      "se navrhuje a provádí tak, aby splnila požadavky na dobu provozu stanovenou vodoprávním úřadem, nejvýše však 25 let. Odkaliště a jeho objekty se navrhují a provádějí po etapách, z nichž každá musí být samostatně povolena. Součástí návrhu je výpočet objemu ukládaného odpadu a návrh rekultivace lokality po ukončení provozu"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B84",
-    "d": [
-      "musí být navržena a provedena tak, aby její vydatnost pokryla potřebu vody připojené stavby, a ve vzdálenosti nejméně 50 m od nejbližší sousední studny",
-      "musí být navržena a provedena v prostředí, které není zdrojem možného znečištění, přičemž ovlivnění vydatnosti sousedních studní se posuzuje jen u studní pro veřejné zásobování pitnou vodou"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B85",
-    "d": [
-      "je stanovena v části 3 přílohy č. 8 vyhlášky o požadavcích na výstavbu",
-      "je stanovena v příloze č. 10 vyhlášky o požadavcích na výstavbu"
-    ],
-    "note": ""
-  },
-  {
-    "id": "B86",
-    "d": [
-      "je rybí přechod, kanál, propustek, brod nebo lávka",
-      "je ochranná hráz, protipovodňová zeď nebo mobilní hrazení"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C1",
-    "d": [
-      "postavení, práva a povinnosti autorizovaných osob a jejich zaměstnanců, způsob a podmínky udělování autorizace a živnostenského oprávnění, vznik a působnost Komor a podmínky pro výkon všech činností ve výstavbě",
-      "postavení, práva a povinnosti autorizovaných osob, způsob a podmínky udělování autorizace, vznik a působnost Komor a stavebních úřadů a podmínky pro povolování staveb a výkon státního stavebního dohledu"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C2",
-    "d": [
-      "k výkonu vybraných činností ve výstavbě a je podmínkou pro výkon těchto činností i u osob usazených nebo hostujících z jiného členského státu",
-      "k výkonu vybraných činností ve výstavbě, avšak pouze na území kraje, ve kterém má autorizovaná osoba zapsáno místo podnikání"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C3",
-    "d": [
-      "autorizované osoby a osoby s vysokoškolským vzděláním ve stavebním oboru a nejméně pětiletou praxí, zapsané v seznamu vedeném krajským úřadem",
-      "pouze autorizované osoby zapsané v seznamu autorizovaných osob vedeném Ministerstvem pro místní rozvoj, nikoli osoby usazené a hostující"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C4",
-    "d": [
-      "pokud mají živnostenské oprávnění a pojištění odpovědnosti za škodu, autorizace se nevyžaduje",
-      "pokud zajistí výkon těchto činností osobami s vysokoškolským vzděláním ve stavebním oboru a odbornou praxí"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C5",
-    "d": [
-      "ke dni úspěšného složení zkoušky",
-      "ke dni převzetí osvědčení o autorizaci"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C6",
-    "d": [
-      "ve zdůvodněných případech příslušné ministerstvo",
-      "ve zdůvodněných případech příslušná vysoká škola"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C7",
-    "d": [
-      "úspěšně složené zkoušky odborné způsobilosti",
-      "písemného doporučení zaměstnavatele uchazeče"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C8",
-    "d": [
-      "5 let pro absolventy magisterského studijního programu a 7 let pro absolventy bakalářského studijního programu nebo jiného příbuzného vzdělání",
-      "3 roky pro absolventy magisterského i bakalářského studijního programu a 5 let pro absolventy jiného příbuzného vzdělání"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C9",
-    "d": [
-      "3 roky, pokud má uchazeč požadované vysokoškolské vzdělání magisterského studijního programu a nejméně 5 roků, pokud má uchazeč vzdělání bakalářského studijního programu nebo středoškolské vzdělání",
-      "2 roky, pokud má uchazeč požadované vysokoškolské vzdělání magisterského nebo bakalářského studijního programu a nejméně 4 roky, pokud má uchazeč požadované středoškolské vzdělání"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C10",
-    "d": [
-      "ověření odborných znalostí v celém rozsahu studijního programu bez ohledu na uznané odborné vzdělání a ověření praktických dovedností při zpracování projektové dokumentace",
-      "ověření délky a obsahu odborné praxe uchazeče a ověření znalosti technických norem a vnitřních předpisů Komory upravujících výkon příslušných odborných činností, popř. činností souvisejících"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C11",
-    "d": [
-      "ministerstvo",
-      "vláda nařízením"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C12",
-    "d": [
-      "pouze vybraných činností ve výstavbě vykonaných osobně, za porušení technických norem a za porušení smluvních podmínek sjednaných s objednatelem",
-      "veškerých odborných činností poskytovaných v souvislosti s udělenou autorizací, avšak pouze vůči objednateli, nikoli za porušení obecně závazných právních předpisů a vnitřních předpisů Komory"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C13",
-    "d": [
-      "osobně, popř. ve spolupráci s dalšími autorizovanými osobami; spolupráce s jinými fyzickými osobami, které nemají autorizaci, není přípustná",
-      "osobně nebo prostřednictvím jiných fyzických či právnických osob, kterým výkon činnosti písemně svěří, a to i bez svého vedení"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C14",
-    "d": [
-      "opakované složení zkoušky odborné způsobilosti vždy po uplynutí pěti let od udělení autorizace",
-      "pravidelné předkládání chronologického seznamu zpracovaných dokumentů stavebnímu úřadu"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C15",
-    "d": [
-      "oprávněna tyto činnosti vykonat sama, pokud o tom předem písemně informuje příslušnou Komoru",
-      "povinna požádat Komoru o rozšíření autorizace o příslušný obor, nebo specializaci"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C16",
-    "d": [
-      "předkládat Komoře ročně seznam zakázek",
-      "uzavřít pojištění i jako zaměstnanec"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C17",
-    "d": [
-      "vlastnoručním podpisem a otiskem autorizačního razítka a současně vždy i elektronickým autorizačním razítkem s kvalifikovaným elektronickým podpisem",
-      "vlastnoručním podpisem a otiskem razítka Komory nebo uznávaným elektronickým podpisem autorizované osoby, autorizační razítko se nevyžaduje"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C18",
-    "d": [
-      "je svěřeno ministerstvu",
-      "je svěřeno krajům"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C19",
-    "d": [
-      "pouze dokumentů opatřených elektronickým autorizačním razítkem s kvalifikovaným elektronickým podpisem; dokumenty v listinné podobě se do něj nezapisují",
-      "staveb, na kterých vykonávala činnost stavbyvedoucího nebo technického dozoru stavebníka, s uvedením data zahájení a dokončení stavby"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C20",
-    "d": [
-      "jsou pro úřední účely soukromými listinami",
-      "jsou veřejnými listinami jen ve stavebním řízení"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C21",
-    "d": [
-      "projektovou činnost a poskytuje související odborné služby v pracovním poměru, jménem zaměstnavatele a na jeho odpovědnost",
-      "projektovou činnost a poskytuje související odborné služby nezávisle, avšak jménem a na odpovědnost Komory, v jejímž seznamu je zapsán"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C22",
-    "d": [
-      "nesmí zaměstnávat další osoby, neboť je povinen vykonávat svoji činnost výhradně osobně",
-      "smí vykonávat jakékoli činnosti nebo zaměstnání, pokud o tom předem písemně informuje Komoru"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C23",
-    "d": [
-      "založí za tím účelem obchodní společnost",
-      "upraví si vzájemné vztahy smlouvou schválenou Komorou"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C24",
-    "d": [
-      "nejpozději do 30 dnů od udělení autorizace, a to i tehdy, vykonává-li autorizovaná osoba tuto činnost v pracovním, služebním nebo jiném obdobném poměru",
-      "nejpozději do tří měsíců od jejího započetí; to neplatí, vykonává-li autorizovaná osoba tuto činnost jako svobodný architekt nebo svobodný inženýr"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C25",
-    "d": [
-      "vykonávat pouze činnost projektanta a stavbyvedoucího; ostatní odborné činnosti vyžadují zvláštní oprávnění Komory",
-      "vykonávat vybrané činnosti ve výstavbě, které jsou jí v jednotlivých případech svěřeny rozhodnutím příslušné Komory"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C26",
-    "d": [
-      "provádět statické a dynamické výpočty staveb",
-      "provádět zkoušení a diagnostiku staveb"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C27",
-    "d": [
-      "mají odlišný rozsah oprávnění pro odborné vedení provádění stavby, neboť autorizovaný technik smí vést jen jednoduché stavby",
-      "mají stejný rozsah oprávnění pro vypracování územních studií a příslušných částí územně plánovací dokumentace"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C28",
-    "d": [
-      "vypracovávat projektovou dokumentaci, jestliže celá přísluší jeho oboru; v ostatních případech se na jejím vypracování nesmí podílet",
-      "vypracovávat projektovou dokumentaci všech staveb bez omezení oboru, pokud ji před předáním ověří autorizovaný inženýr"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C29",
-    "d": [
-      "písemnou důtku, pokutu až do výše 100 000 Kč, pozastavení autorizace na dobu nejvýše pěti let, odejmutí autorizace",
-      "ústní napomenutí, pokutu až do výše 500 000 Kč, pozastavení autorizace na dobu nejvýše jednoho roku, odejmutí autorizace"
-    ],
-    "note": ""
-  },
-  {
-    "id": "C30",
-    "d": [
-      "kdo zemřel nebo byl prohlášen za mrtvého, komu bylo Komorou uloženo disciplinární opatření pozastavení autorizace, kdo řádně a včas nezaplatil členský příspěvek, kdo neuzavřel pojištění odpovědnosti",
-      "kdo byl pravomocně odsouzen za jakýkoli trestný čin, kdo nevykonává autorizované činnosti déle než tři roky, komu byla autorizace udělena na podkladě nesprávných údajů, kdo o to ústně požádá"
-    ],
-    "note": ""
-  }
+ {
+  "id": "B6",
+  "d": [
+   "mechanická odolnost a stabilita, požární bezpečnost, hygiena a ochrana zdraví, ochrana proti hluku, bezpečnost při užívání, úspora energie a tepelná ochrana, soulad s územně plánovací dokumentací",
+   "mechanická odolnost a stabilita, požární bezpečnost, ochrana zdraví a životního prostředí, architektonická a urbanistická kvalita, bezpečnost a přístupnost při užívání, trvanlivost a životnost, hospodárnost provozu a údržby"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B19",
+  "d": [
+   "musí být zabezpečeny proti pádu osob pouze tehdy, je-li jejich hloubka větší než 1,5 m",
+   "musí být po celé délce zakryty pochozími lávkami s oboustranným zábradlím"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B20",
+  "d": [
+   "způsobem odpovídajícím základovým poměrům odvozeným z geologických map a z průzkumů provedených na sousedních pozemcích",
+   "způsobem, který stanoví stavební úřad v povolení stavby na základě vyjádření odborného geologa"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B35",
+  "d": [
+   "smí být umístěno vedení technické infrastruktury budovy, je-li chráněno požárně odolnou konstrukcí",
+   "nesmí být umístěno potrubí plynu ani vody, lze v nich však umístit elektrická a komunikační vedení budovy"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B36",
+  "d": [
+   "musí být zajištěna pouze na vnějších pochozích plochách, schodištích a šikmých rampách a musí splňovat požadavky stanovené v příloze č. 9 vyhlášky o požadavcích na výstavbu",
+   "musí být zajištěna na podlahách a pochozích plochách jen ve stavbách občanského vybavení a musí splňovat požadavky stanovené v příloze č. 5 vyhlášky o požadavcích na výstavbu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B37",
+  "d": [
+   "navržena a provedena opatření vylučující práci ve výškách, aby údržbu bylo možno provádět výhradně z úrovně terénu",
+   "stanovena organizační opatření vlastníka stavby a určen koordinátor bezpečnosti a ochrany zdraví při práci"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B54",
+  "d": [
+   "se stanovuje stavebním úřadem",
+   "se sjednává ve smlouvě o dílo"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B55",
+  "d": [
+   "umožňuje povolit výjimku z kteréhokoli svého ustanovení za podmínek stanovených v § 138 odst. 1 stavebního zákona",
+   "neobsahuje žádná ustanovení, ze kterých by bylo možné povolit výjimku, neboť její požadavky platí bez výjimky"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B66",
+  "d": [
+   "musí splňovat požadavky na stabilitu a odolnost pro běžný provozní zatěžovací stav účinků vody při průměrném ročním průtoku",
+   "musí splňovat požadavky na stabilitu a odolnost pouze pro účinky vody při povodni s dobou opakování 20 let (Q20), bez nahodilých zatížení"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B67",
+  "d": [
+   "posuzuje pouze únosnost a sedání základové půdy, změna průtokových poměrů se posuzuje až v manipulačním řádu.",
+   "posuzuje i možná změna průtokových poměrů, a to jen při průtoku Q100; změna režimu podzemních vod se neposuzuje."
+  ],
+  "note": ""
+ },
+ {
+  "id": "B68",
+  "d": [
+   "na maximální denní potřebu vody. Potrubí ostatních vodovodních řadů se navrhuje a provádí na maximální hodinovou potřebu vody",
+   "na maximální hodinovou potřebu vody. Potrubí ostatních vodovodních řadů se navrhuje a provádí na průměrnou denní potřebu vody"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B69",
+  "d": [
+   "vodní dílo nebo jeho část, sloužící pro převedení vody přes překážku",
+   "vodní dílo nebo jeho část, sloužící k tlumení energie vody pod překážkou"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B70",
+  "d": [
+   "teoretická povodňová vlna určená kulminačním průtokem s dobou opakování 100 let (Q100), bez zohlednění objemu a časového průběhu vlny",
+   "skutečná povodňová vlna, která byla v profilu vodního díla zaznamenána s nejvyšším dosud pozorovaným kulminačním průtokem"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B71",
+  "d": [
+   "v aktivní zóně záplavového území; v území chráněném podle jiného právního předpisu, v ochranných pásmech a v území se svahovými pohyby lze odkaliště navrhnout se souhlasem dotčeného orgánu",
+   "na pozemku zemědělského půdního fondu v I. a II. třídě ochrany, na pozemku určeném k plnění funkcí lesa a v území s výskytem poddolování nebo krasových jevů"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B72",
+  "d": [
+   "v takovém místě, kde je koryto vodního toku opevněno a kde je hladina vody ustálena vzdutím od jezu nebo jiné umělé překážky v korytě",
+   "zpravidla bezprostředně pod soutokem vodních toků nebo pod jezem, kde koryto vodního toku umožňuje zachytit celkový průtok vody z povodí"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B73",
+  "d": [
+   "se navrhuje a provádí tak, aby převedla nejvyšší historicky zaznamenaný průtok, bez ohledu na návrhový průtok",
+   "se navrhuje a provádí tak, aby její koruna byla vždy nejméně 0,5 m nad hladinou vody při stoleté povodni (Q100)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B74",
+  "d": [
+   "smí propojovat s potrubím užitkové a provozní vody pouze přes zařízení zabraňující zpětnému toku vody, s potrubím z jiného zdroje vody bez omezení",
+   "smí propojovat s potrubím užitkové a provozní vody i s potrubím z jiného zdroje vody, pokud to v povolení stavby schválí vodoprávní úřad"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B75",
+  "d": [
+   "uloženo v nezámrzné hloubce nejméně 1,5 m pod úrovní terénu, provedeno výhradně z tvárné litiny nebo oceli s ochranou proti vnější i vnitřní korozi a opatřeno katodovou ochranou ve všech druzích prostředí",
+   "chráněno proti zamrznutí, poškození vnějšími vlivy a vnější korozi s ohledem na zatížení dopravou, hloubku uložení a prostředí, ve kterém bude potrubí uloženo; ochrana proti vnitřní korozi a vnikání látek se nepožaduje"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B76",
+  "d": [
+   "podle počtu ekvivalentních obyvatel, kapacity čistírny odpadních vod a podmínek stanovených v kanalizačním řádu",
+   "podle průměrného denního množství odpadních vod a stupně čištění požadovaného v povolení k vypouštění odpadních vod"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B77",
+  "d": [
+   "výhradně jako gravitační, s výjimkou výtlačných řadů čerpacích stanic",
+   "jako gravitační, tlaková nebo podtlaková, nikoli však jejich kombinace"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B78",
+  "d": [
+   "stanoví podrobnější požadavky na stokovou síť v části 5 přílohy č. 8 vyhlášky o požadavcích na výstavbu",
+   "stanoví podrobnější požadavky na stokovou síť v příloze č. 4 vyhlášky o požadavcích na výstavbu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B79",
+  "d": [
+   "musí být navržena a provedena tak, aby vždy umožnila současnou instalaci malé vodní elektrárny. Dodatečná instalace zařízení pro využití energetického potenciálu povrchové vody se nepřipouští",
+   "musí být navržena a provedena s ohledem na využití energetického potenciálu povrchové vody jen tehdy, požádá-li o to správce vodního toku. Návrh jezu pak musí zahrnovat současnou instalaci zařízení pro jeho využití"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B80",
+  "d": [
+   "jsou stanoveny v části 9 přílohy č. 8 vyhlášky o požadavcích na výstavbu",
+   "jsou stanoveny v části 6 přílohy č. 8 vyhlášky o požadavcích na výstavbu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B81",
+  "d": [
+   "se zpravidla navrhuje a provádí jako podzemní odvodnění sběrnými a svodnými drény. V odůvodněných případech se volí povrchové odvodnění sběrnými příkopy a objekty na nich",
+   "se zpravidla navrhuje a provádí jako odvodnění čerpáním do nejbližšího vodního toku. V odůvodněných případech se volí gravitační odvodnění sběrnými příkopy"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B82",
+  "d": [
+   "musí mít spodní hranu vtokového objektu ve vodní nádrži umístěnu níže než spodní hranu spodní výpusti, aby byl zajištěn odběr vody i při nízké hladině",
+   "musí vždy obsahovat vyrovnávací komoru, a to bez ohledu na délku přivaděče a na velikost a rychlost změn průtoku vody na přívodu vody nebo odpadu vody"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B83",
+  "d": [
+   "se navrhuje a provádí na dobu životnosti nejméně 50 let bez ohledu na předpokládanou dobu provozu zařízení produkujícího ukládaný odpad. Odkaliště a jeho objekty se navrhují a provádějí na co nejmenší zábor lokality. Součástí návrhu je výpočet předpokládaného množství srážkových vod odváděných z povrchu odkaliště a prokázání jejich nezávadnosti",
+   "se navrhuje a provádí tak, aby splnila požadavky na dobu provozu stanovenou vodoprávním úřadem, nejvýše však 25 let. Odkaliště a jeho objekty se navrhují a provádějí po etapách, z nichž každá musí být samostatně povolena. Součástí návrhu je výpočet objemu ukládaného odpadu a návrh rekultivace lokality po ukončení provozu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B84",
+  "d": [
+   "musí být navržena a provedena tak, aby její vydatnost pokryla potřebu vody připojené stavby, a ve vzdálenosti nejméně 50 m od nejbližší sousední studny",
+   "musí být navržena a provedena v prostředí, které není zdrojem možného znečištění, přičemž ovlivnění vydatnosti sousedních studní se posuzuje jen u studní pro veřejné zásobování pitnou vodou"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B85",
+  "d": [
+   "je stanovena v části 3 přílohy č. 8 vyhlášky o požadavcích na výstavbu",
+   "je stanovena v příloze č. 10 vyhlášky o požadavcích na výstavbu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "B86",
+  "d": [
+   "je rybí přechod, kanál, propustek, brod nebo lávka",
+   "je ochranná hráz, protipovodňová zeď nebo mobilní hrazení"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C1",
+  "d": [
+   "postavení, práva a povinnosti autorizovaných osob a jejich zaměstnanců, způsob a podmínky udělování autorizace a živnostenského oprávnění, vznik a působnost Komor a podmínky pro výkon všech činností ve výstavbě",
+   "postavení, práva a povinnosti autorizovaných osob, způsob a podmínky udělování autorizace, vznik a působnost Komor a stavebních úřadů a podmínky pro povolování staveb a výkon státního stavebního dohledu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C2",
+  "d": [
+   "k výkonu vybraných činností ve výstavbě a je podmínkou pro výkon těchto činností i u osob usazených nebo hostujících z jiného členského státu",
+   "k výkonu vybraných činností ve výstavbě, avšak pouze na území kraje, ve kterém má autorizovaná osoba zapsáno místo podnikání"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C3",
+  "d": [
+   "autorizované osoby a osoby s vysokoškolským vzděláním ve stavebním oboru a nejméně pětiletou praxí, zapsané v seznamu vedeném krajským úřadem",
+   "pouze autorizované osoby zapsané v seznamu autorizovaných osob vedeném Ministerstvem pro místní rozvoj, nikoli osoby usazené a hostující"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C4",
+  "d": [
+   "pokud mají živnostenské oprávnění a pojištění odpovědnosti za škodu, autorizace se nevyžaduje",
+   "pokud zajistí výkon těchto činností osobami s osvědčením odborné způsobilosti vydaným ministerstvem"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C5",
+  "d": [
+   "ke dni úspěšného složení zkoušky",
+   "ke dni převzetí osvědčení o autorizaci"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C6",
+  "d": [
+   "ve zdůvodněných případech příslušné ministerstvo",
+   "ve zdůvodněných případech příslušná vysoká škola"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C7",
+  "d": [
+   "úspěšně složené zkoušky odborné způsobilosti",
+   "písemného doporučení zaměstnavatele uchazeče"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C8",
+  "d": [
+   "5 let pro absolventy magisterského studijního programu a 7 let pro absolventy bakalářského studijního programu nebo jiného příbuzného vzdělání",
+   "3 roky pro absolventy magisterského i bakalářského studijního programu a 5 let pro absolventy jiného příbuzného vzdělání"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C9",
+  "d": [
+   "3 roky, pokud má uchazeč požadované vysokoškolské vzdělání magisterského studijního programu a nejméně 5 roků, pokud má uchazeč vzdělání bakalářského studijního programu nebo středoškolské vzdělání",
+   "2 roky, pokud má uchazeč požadované vysokoškolské vzdělání magisterského nebo bakalářského studijního programu a nejméně 4 roky, pokud má uchazeč požadované středoškolské vzdělání"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C10",
+  "d": [
+   "ověření odborných znalostí v celém rozsahu studijního programu bez ohledu na uznané odborné vzdělání a ověření praktických dovedností při zpracování projektové dokumentace",
+   "ověření délky a obsahu odborné praxe uchazeče a ověření znalosti technických norem a vnitřních předpisů Komory upravujících výkon příslušných odborných činností, popř. činností souvisejících"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C11",
+  "d": [
+   "ministerstvo",
+   "vláda nařízením"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C12",
+  "d": [
+   "pouze vybraných činností ve výstavbě vykonaných osobně, za porušení technických norem a za porušení smluvních podmínek sjednaných s objednatelem",
+   "veškerých odborných činností poskytovaných v souvislosti s udělenou autorizací, avšak pouze vůči objednateli, nikoli za porušení obecně závazných právních předpisů a vnitřních předpisů Komory"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C13",
+  "d": [
+   "osobně, popř. ve spolupráci s dalšími autorizovanými osobami; spolupráce s jinými fyzickými osobami, které nemají autorizaci, není přípustná",
+   "osobně nebo prostřednictvím jiných fyzických či právnických osob, kterým výkon činnosti písemně svěří, a to i bez svého vedení"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C14",
+  "d": [
+   "opakované složení zkoušky odborné způsobilosti vždy po uplynutí pěti let od udělení autorizace",
+   "pravidelné předkládání chronologického seznamu zpracovaných dokumentů stavebnímu úřadu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C15",
+  "d": [
+   "oprávněna tyto činnosti vykonat sama, pokud o tom předem písemně informuje příslušnou Komoru",
+   "povinna požádat Komoru o rozšíření autorizace o příslušný obor, nebo specializaci"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C16",
+  "d": [
+   "předkládat Komoře ročně seznam zakázek",
+   "uzavřít pojištění i jako zaměstnanec"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C17",
+  "d": [
+   "vlastnoručním podpisem a otiskem autorizačního razítka a současně vždy i elektronickým autorizačním razítkem s kvalifikovaným elektronickým podpisem",
+   "vlastnoručním podpisem a otiskem razítka Komory nebo uznávaným elektronickým podpisem autorizované osoby, autorizační razítko se nevyžaduje"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C18",
+  "d": [
+   "je svěřeno ministerstvu",
+   "je svěřeno krajům"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C19",
+  "d": [
+   "pouze dokumentů opatřených elektronickým autorizačním razítkem s kvalifikovaným elektronickým podpisem; dokumenty v listinné podobě se do něj nezapisují",
+   "staveb, na kterých vykonávala činnost stavbyvedoucího nebo technického dozoru stavebníka, s uvedením data zahájení a dokončení stavby"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C20",
+  "d": [
+   "jsou pro úřední účely soukromými listinami",
+   "jsou veřejnými listinami jen ve stavebním řízení"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C21",
+  "d": [
+   "projektovou činnost a poskytuje související odborné služby nezávisle a vlastním jménem, avšak výhradně osobně, bez možnosti zaměstnávat další osoby",
+   "projektovou činnost a poskytuje související odborné služby nezávisle, avšak jménem a na odpovědnost Komory, v jejímž seznamu je zapsán"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C22",
+  "d": [
+   "nesmí zaměstnávat další osoby, neboť je povinen vykonávat svoji činnost výhradně osobně",
+   "smí vykonávat jakékoli činnosti nebo zaměstnání, pokud o tom předem písemně informuje Komoru"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C23",
+  "d": [
+   "založí za tím účelem obchodní společnost",
+   "upraví si vzájemné vztahy smlouvou schválenou Komorou"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C24",
+  "d": [
+   "nejpozději do 30 dnů od udělení autorizace, a to i tehdy, vykonává-li autorizovaná osoba tuto činnost v pracovním, služebním nebo jiném obdobném poměru",
+   "nejpozději do tří měsíců od jejího započetí; to neplatí, vykonává-li autorizovaná osoba tuto činnost jako svobodný architekt nebo svobodný inženýr"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C25",
+  "d": [
+   "vykonávat pouze činnost projektanta a stavbyvedoucího; ostatní odborné činnosti vyžadují zvláštní oprávnění Komory",
+   "vykonávat vybrané činnosti ve výstavbě, které jsou jí v jednotlivých případech svěřeny rozhodnutím příslušné Komory"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C26",
+  "d": [
+   "provádět statické a dynamické výpočty staveb",
+   "provádět zkoušení a diagnostiku staveb"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C27",
+  "d": [
+   "mají odlišný rozsah oprávnění pro odborné vedení provádění stavby, neboť autorizovaný technik smí vést jen jednoduché stavby",
+   "mají stejný rozsah oprávnění pro vypracování územních studií a příslušných částí územně plánovací dokumentace"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C28",
+  "d": [
+   "vypracovávat projektovou dokumentaci, jestliže celá přísluší jeho oboru; v ostatních případech se na jejím vypracování nesmí podílet",
+   "vypracovávat projektovou dokumentaci všech staveb bez omezení oboru, pokud ji před předáním ověří autorizovaný inženýr"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C29",
+  "d": [
+   "písemnou důtku, pokutu až do výše 100 000 Kč, pozastavení autorizace na dobu nejvýše pěti let, odejmutí autorizace",
+   "ústní napomenutí, pokutu až do výše 500 000 Kč, pozastavení autorizace na dobu nejvýše jednoho roku, odejmutí autorizace"
+  ],
+  "note": ""
+ },
+ {
+  "id": "C30",
+  "d": [
+   "kdo zemřel nebo byl prohlášen za mrtvého, komu bylo Komorou uloženo disciplinární opatření pozastavení autorizace, kdo řádně a včas nezaplatil členský příspěvek, kdo neuzavřel pojištění odpovědnosti",
+   "kdo byl pravomocně odsouzen za jakýkoli trestný čin, kdo nevykonává autorizované činnosti déle než tři roky, komu byla autorizace udělena na podkladě nesprávných údajů, kdo o to ústně požádá"
+  ],
+  "note": ""
+ }
 ]

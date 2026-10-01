@@ -77,16 +77,24 @@ export function detail(view, s) {
     add(view, h('div', { class: 'section-label' }, 'Citovaná ustanovení'),
       h('div', { class: 'list' }, units.map(([ukey, u]) => {
         const [kind, id] = ukey.split(':');
-        const ref = { law: key, kind, id, detail: '', hl: {}, short: law.short };
+        const ref = { law: key, kind, id, detail: '', hl: {}, short: law.short, label: kind === 'row' ? u.heading : undefined };
         const n = questionsCiting(ref).length;
         return h('button', { class: 'row-link', onclick: () => openLaw(ref) },
-          h('span', { class: 'code', style: 'min-width:64px' }, u.label?.replace(/ k .*| vyhlášky.*| zákona.*/, '') || ukey),
+          h('span', { class: 'code', style: 'min-width:64px' }, codeLabel(kind, id, u)),
           h('span', { class: 'txt' },
             h('span', { class: 't' }, u.heading || firstText(u)),
             h('span', { class: 's' }, count(n, 'otázka', 'otázky', 'otázek'))),
           icon('chev', 'chev'));
       })));
   });
+}
+
+function codeLabel(kind, id, u) {
+  if (kind === 'par') return `§ ${id}`;
+  if (kind === 'art') return `čl. ${id}`;
+  const n = (u.label || '').match(/Příloha č\. (\w+)/);
+  if (kind === 'annex') return id ? `Příl. ${id}` : 'Příloha';
+  return n ? `Příl. ${n[1]}` : 'Příloha';
 }
 
 function firstText(u) {

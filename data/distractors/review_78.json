@@ -1,0 +1,9 @@
+[
+  {
+    "id": "M9",
+    "i": 1,
+    "problem": "POSSIBLY_CORRECT",
+    "reason": "Podle § 23 odst. 3 písm. c) zákona č. 274/2001 Sb. se u řadů a stok o průměru nad 200 mm, jejichž dno je uloženo v hloubce větší než 2,5 m, vzdálenost podle písm. a) zvyšuje o 1,0 m; pro průměr 200–500 mm tak ochranné pásmo činí 1,5 + 1,0 = 2,5 m. Hodnota 2,5 m je proto správná pro běžnou variantu popsané situace (a zároveň je to hodnota pro průměr nad 500 mm). Hodnota 2,0 m neplatí pro žádnou variantu (do 500 mm vždy 1,5 m nebo 2,5 m).",
+    "replacement": "2,0 m"
+  }
+]

@@ -1,47 +1,362 @@
 [
-  {"id": "A53", "d": ["Ano, provádět a odstraňovat stavby, zařízení a terénní úpravy smí bez výjimky pouze stavební podnikatel", "Ne, svépomocí může stavebník provádět a odstraňovat jakoukoli stavbu, pokud zajistí odborné vedení stavbyvedoucím"], "note": ""},
-  {"id": "A54", "d": ["Ne, má ji stavebník", "Ano, jen u vyhrazených staveb"], "note": ""},
-  {"id": "A55", "d": ["Ano, tuto povinnost má u každé stavby podléhající povolení bez ohledu na její druh", "Ne, tuto povinnost nemá u jednoduchých staveb pro bydlení a rodinnou rekreaci"], "note": ""},
-  {"id": "A56", "d": ["U jednoduchých staveb", "U staveb pro bydlení"], "note": "Oficiální odpověď je neúplná: podle § 161 odst. 2 musí stavebník zajistit dozor projektanta i u stavby financované z veřejných prostředků prováděné zhotovitelem, zpracoval-li PD projektant (neplatí pro sítě technické infrastruktury)."},
-  {"id": "A57", "d": ["zhotovitel", "stavbyvedoucí"], "note": ""},
-  {"id": "A58", "d": ["Ne", "Ano, ale pouze u vyhrazených staveb"], "note": ""},
-  {"id": "A59", "d": ["stavebník", "stavbyvedoucí"], "note": ""},
-  {"id": "A60", "d": ["odpovídá", "odpovídá společně se zhotovitelem"], "note": ""},
-  {"id": "A61", "d": ["Ano, stavbyvedoucí se může odchýlit, pokud odchylku zaznamená do stavebního deníku", "Ano, pokud odchylku odsouhlasí stavebník a předem ji oznámí stavebnímu úřadu"], "note": "Citace nesedí: § 161 odst. 1 toto pravidlo neobsahuje; povinnost stavbyvedoucího řídit provádění stavby podle ověřené dokumentace je v § 164 odst. 1 písm. b)."},
-  {"id": "A62", "d": ["zhotovitel", "stavebník"], "note": ""},
-  {"id": "A63", "d": ["stavebníkovi", "zhotoviteli"], "note": ""},
-  {"id": "A64", "d": ["stavbyvedoucí", "stavebník"], "note": ""},
-  {"id": "A65", "d": ["Ne, jedná se o trestný čin", "Ano, se souhlasem stavebníka"], "note": ""},
-  {"id": "A66", "d": ["musí, při provádění drobných staveb však postačí vedení jednoduchého záznamu o stavbě", "nemusí, ale jen tehdy, provádí-li drobnou stavbu stavebník svépomocí, nikoli stavební podnikatel"], "note": ""},
-  {"id": "A67", "d": ["po dobu 10 let od kolaudace stavby", "do vydání kolaudačního rozhodnutí"], "note": ""},
-  {"id": "A68", "d": ["Nejvyšší stavební úřad, Specializovaný a odvolací stavební úřad, Ministerstvo dopravy, Ministerstvo průmyslu a obchodu, krajské stavební úřady, obecní stavební úřady a jiné stavební úřady", "Ministerstvo pro místní rozvoj, Ministerstvo dopravy, Ministerstvo průmyslu a obchodu, Dopravní a energetický stavební úřad, krajské stavební úřady, obecní úřady všech obcí a autorizovaní inspektoři"], "note": ""},
-  {"id": "A69", "d": ["Ministerstvo obrany, Ministerstvo dopravy a Ministerstvo průmyslu a obchodu", "Ministerstvo vnitra, Ministerstvo spravedlnosti a Ministerstvo pro místní rozvoj"], "note": ""},
-  {"id": "A70", "d": ["Ministerstvo pro místní rozvoj", "Krajský stavební úřad podle místa stavby"], "note": ""},
-  {"id": "A77", "d": ["Ano", "Ano, s výjimkou jednoduchých staveb"], "note": ""},
-  {"id": "A78", "d": ["Ano, u ostatních staveb a u jednoduchých staveb pro bydlení postačí dokumentace pro povolení stavby.", "Ne, je nutné ji vyhotovit u všech staveb včetně drobných a všech jednoduchých staveb."], "note": ""},
-  {"id": "A79", "d": ["drobné stavby a jednoduché stavby, pokud nejde o stavby pro bydlení a rodinnou rekreaci", "pouze drobné stavby uvedené v příloze stavebního zákona, nikoli však změny využití území"], "note": ""},
-  {"id": "A80", "d": ["Ne nevyžaduje, protože nepřesahuje výšku 1,5 m", "Ne nevyžaduje, protože nepřesahuje výměru 500 m²"], "note": ""},
-  {"id": "A81", "d": ["pokud jsou podmínky pro dělení nebo scelování pozemků dány územním plánem", "pokud s dělením nebo scelováním pozemků souhlasí vlastníci všech dotčených pozemků"], "note": ""},
-  {"id": "A82", "d": ["umožňuje, rámcové povolení nahrazuje povolení záměru", "umožňuje, ale jen u staveb jaderného zařízení"], "note": "Citace nesedí: věta „Rámcové povolení neumožňuje provedení záměru“ je v § 221 odst. 3, nikoli v odst. 2."},
-  {"id": "A83", "d": ["Dopravní a energetický stavební úřad a jiné stavební úřady", "Ministerstvo pro místní rozvoj a krajské stavební úřady"], "note": ""},
-  {"id": "A84", "d": ["žádost lze podat pouze prostřednictvím portálu stavebníka", "žádost lze podat i ústně do protokolu u stavebního úřadu"], "note": ""},
-  {"id": "A85", "d": ["Ano, stavebník ji může předložit v listinné podobě ve dvou vyhotoveních", "Ne, musí být doručena stavebnímu úřadu na nosiči dat nebo do datové schránky"], "note": ""},
-  {"id": "A86", "d": ["žádost o výjimku lze podle volby žadatele podat samostatně, nebo jako součást žádosti o povolení", "žádost o výjimku z požadavků na výstavbu se podává samostatně ještě před podáním žádosti o povolení"], "note": ""},
-  {"id": "A87", "d": ["Povolení stavby platí 1 rok, nejdéle 3 roky ode dne nabytí právní moci; bylo-li provádění stavby zahájeno v době jeho platnosti, prodlužuje se doba platnosti povolení na 10 let ode dne právní moci povolení nebo rozhodnutí o prodloužení jeho platnosti.", "Povolení stavby platí 2 roky, nejdéle 4 roky ode dne nabytí právní moci; bylo-li provádění stavby zahájeno v době jeho platnosti, prodlužuje se doba platnosti povolení na 15 let ode dne právní moci povolení nebo rozhodnutí o prodloužení jeho platnosti."], "note": ""},
-  {"id": "A88", "d": ["Změna záměru oproti dokumentaci pro provádění stavby odsouhlasené technickým dozorem stavebníka.", "Nepodstatná odchylka od ověřené projektové dokumentace, při níž se nemění půdorysný ani výškový rozsah stavby."], "note": ""},
-  {"id": "A89", "d": ["Ne, změnu záměru před dokončením postačí předem oznámit stavebnímu úřadu", "Ano, ale jen pokud se změna dotýká práv účastníků řízení nebo chráněných veřejných zájmů"], "note": ""},
-  {"id": "A90", "d": ["veškeré odchylky, které předem odsouhlasil projektant v rámci dozoru projektanta", "odchylky, při kterých se mění způsob užívání stavby, avšak nezasahuje se do nosných konstrukcí"], "note": ""},
-  {"id": "A91", "d": ["Ano, kolaudační rozhodnutí vyžadují všechny stavby, které vyžadují povolení", "Ne, kolaudační rozhodnutí nevyžadují pouze jednoduché stavby pro bydlení a rodinnou rekreaci"], "note": ""},
-  {"id": "A92", "d": ["Stavba se při kolaudaci posuzuje podle technických norem, které platí v době podání žádosti o vydání kolaudačního rozhodnutí.", "Stavba se při kolaudaci posuzuje podle technických norem, které platily v době, kdy bylo zahájeno provádění stavby."], "note": ""},
-  {"id": "A93", "d": ["Musí, závěrečná kontrolní prohlídka je povinnou součástí každého kolaudačního řízení.", "Nemusí, požádá-li stavebník v žádosti o kolaudaci o upuštění od ní."], "note": ""},
-  {"id": "A94", "d": ["Ne, kolaudační rozhodnutí lze vydat vždy pouze pro celou stavbu, a to až po jejím úplném dokončení", "Ano, ale pouze tehdy, byla-li tato část stavby předem ověřena zkušebním provozem nařízeným stavebním úřadem"], "note": ""},
-  {"id": "A95", "d": ["zkušebním provozem se ověřuje soulad stavby s jejím povolením", "zkušebním provozem se povoluje předčasné užívání nedokončené stavby"], "note": ""},
-  {"id": "A96", "d": ["pokud o změnu v užívání stavby nepožádá stavebník, ale vlastník stavby", "pokud by změna v užívání stavby vyžadovala závazné stanovisko dotčeného orgánu"], "note": ""},
-  {"id": "A97", "d": ["stavbu, která se nachází v památkové zóně nebo obsahuje azbest", "stavbu, která obsahuje azbest nebo jiné nebezpečné látky"], "note": ""},
-  {"id": "A98", "d": ["Ne, nevyžadují nikdy", "Ano, pokud jsou v památkové zóně"], "note": ""},
-  {"id": "A99", "d": ["Ne, stavební úřad v takovém případě prodlouží platnost povolení", "Ano, ale pouze tehdy, jde-li o dočasnou stavbu"], "note": ""},
-  {"id": "A100", "d": ["Ne, stavbu provedenou bez povolení nebo v rozporu s ním stavební úřad vždy nařídí odstranit, a to bez možnosti dodatečného povolení", "Ano, stavební úřad ji dodatečně povolí z moci úřední, pokud stavba splňuje požadavky na výstavbu a neodporuje veřejným zájmům"], "note": ""},
-  {"id": "A101", "d": ["Ne, odstranění lze nařídit pouze u stavby, která vyžaduje povolení", "Ano, pokud o to požádá vlastník sousedního pozemku nebo sousední stavby"], "note": ""},
-  {"id": "A102", "d": ["stavbyvedoucí, a je-li to nezbytné též zhotovitel; stavebník se kontroly účastnit nemusí", "vlastník stavby, a je-li to nezbytné též vlastníci sousedních pozemků a staveb, které mohou být dotčeny"], "note": ""},
-  {"id": "A103", "d": ["pouze na základě provedené kontroly, při níž zjistil závady ohrožující život nebo zdraví osob", "pouze na návrh vlastníka sousední stavby, jehož práva jsou nedostatečnou údržbou stavby přímo dotčena"], "note": ""}
+ {
+  "id": "A53",
+  "d": [
+   "Ano, provádět a odstraňovat stavby, zařízení a terénní úpravy smí bez výjimky pouze stavební podnikatel",
+   "Ne, svépomocí může stavebník provádět a odstraňovat jakoukoli stavbu, pokud zajistí odborné vedení stavbyvedoucím"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A54",
+  "d": [
+   "Ne, má ji stavebník",
+   "Ano, jen u vyhrazených staveb"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A55",
+  "d": [
+   "Ano, tuto povinnost má u každé stavby podléhající povolení bez ohledu na její druh",
+   "Ne, tuto povinnost nemá u jednoduchých staveb pro bydlení a rodinnou rekreaci"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A56",
+  "d": [
+   "U jednoduchých staveb",
+   "U staveb pro bydlení"
+  ],
+  "note": "Oficiální odpověď je neúplná: podle § 161 odst. 2 musí stavebník zajistit dozor projektanta i u stavby financované z veřejných prostředků prováděné zhotovitelem, zpracoval-li PD projektant (neplatí pro sítě technické infrastruktury)."
+ },
+ {
+  "id": "A57",
+  "d": [
+   "zhotovitel",
+   "stavbyvedoucí"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A58",
+  "d": [
+   "Ne",
+   "Ano, ale pouze u vyhrazených staveb"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A59",
+  "d": [
+   "stavebník",
+   "stavbyvedoucí"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A60",
+  "d": [
+   "odpovídá",
+   "odpovídá společně se zhotovitelem"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A61",
+  "d": [
+   "Ano, stavbyvedoucí se může odchýlit, pokud odchylku zaznamená do stavebního deníku",
+   "Ano, pokud odchylku odsouhlasí stavebník a předem ji oznámí stavebnímu úřadu"
+  ],
+  "note": "Citace nesedí: § 161 odst. 1 toto pravidlo neobsahuje; povinnost stavbyvedoucího řídit provádění stavby podle ověřené dokumentace je v § 164 odst. 1 písm. b)."
+ },
+ {
+  "id": "A62",
+  "d": [
+   "zhotovitel",
+   "stavebník"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A63",
+  "d": [
+   "stavebníkovi",
+   "zhotoviteli"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A64",
+  "d": [
+   "stavbyvedoucí",
+   "stavebník"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A65",
+  "d": [
+   "Ne, jedná se o trestný čin",
+   "Ano, se souhlasem stavebníka"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A66",
+  "d": [
+   "musí, při provádění drobných staveb však postačí vedení jednoduchého záznamu o stavbě",
+   "nemusí, ale jen tehdy, provádí-li drobnou stavbu stavebník svépomocí, nikoli stavební podnikatel"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A67",
+  "d": [
+   "po dobu 10 let od kolaudace stavby",
+   "do vydání kolaudačního rozhodnutí"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A68",
+  "d": [
+   "Nejvyšší stavební úřad, Specializovaný a odvolací stavební úřad, Ministerstvo dopravy, Ministerstvo průmyslu a obchodu, krajské stavební úřady, obecní stavební úřady a jiné stavební úřady",
+   "Ministerstvo pro místní rozvoj, Ministerstvo dopravy, Ministerstvo průmyslu a obchodu, Dopravní a energetický stavební úřad, krajské stavební úřady, obecní úřady všech obcí a autorizovaní inspektoři"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A69",
+  "d": [
+   "Ministerstvo obrany, Ministerstvo dopravy a Ministerstvo průmyslu a obchodu",
+   "Ministerstvo vnitra, Ministerstvo spravedlnosti a Ministerstvo pro místní rozvoj"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A70",
+  "d": [
+   "Ministerstvo pro místní rozvoj",
+   "Krajský stavební úřad podle místa stavby"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A77",
+  "d": [
+   "Ano",
+   "Ano, s výjimkou jednoduchých staveb"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A78",
+  "d": [
+   "Ano, u ostatních staveb a u jednoduchých staveb pro bydlení postačí dokumentace pro povolení stavby.",
+   "Ne, je nutné ji vyhotovit u všech staveb včetně drobných a všech jednoduchých staveb."
+  ],
+  "note": ""
+ },
+ {
+  "id": "A79",
+  "d": [
+   "drobné stavby a jednoduché stavby, pokud nejde o stavby pro bydlení a rodinnou rekreaci",
+   "pouze drobné stavby uvedené v příloze stavebního zákona, nikoli však změny využití území"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A80",
+  "d": [
+   "Ne nevyžaduje, protože nepřesahuje výšku 1,5 m",
+   "Ne nevyžaduje, protože nepřesahuje výměru 500 m²"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A81",
+  "d": [
+   "pokud jsou podmínky pro dělení nebo scelování pozemků dány územním plánem",
+   "pokud s dělením nebo scelováním pozemků souhlasí vlastníci všech dotčených pozemků"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A82",
+  "d": [
+   "umožňuje, rámcové povolení nahrazuje povolení záměru",
+   "umožňuje, ale jen u staveb jaderného zařízení"
+  ],
+  "note": "Citace nesedí: věta „Rámcové povolení neumožňuje provedení záměru“ je v § 221 odst. 3, nikoli v odst. 2."
+ },
+ {
+  "id": "A83",
+  "d": [
+   "Dopravní a energetický stavební úřad a jiné stavební úřady",
+   "Ministerstvo pro místní rozvoj a krajské stavební úřady"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A84",
+  "d": [
+   "žádost lze podat pouze prostřednictvím portálu stavebníka",
+   "žádost lze podat i ústně do protokolu u stavebního úřadu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A85",
+  "d": [
+   "Ano, stavebník ji může předložit v listinné podobě ve dvou vyhotoveních",
+   "Ne, musí být doručena stavebnímu úřadu na nosiči dat nebo do datové schránky"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A86",
+  "d": [
+   "žádost o výjimku lze podle volby žadatele podat samostatně, nebo jako součást žádosti o povolení",
+   "žádost o výjimku z požadavků na výstavbu se podává samostatně ještě před podáním žádosti o povolení"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A87",
+  "d": [
+   "Povolení stavby platí 1 rok, nejdéle 3 roky ode dne nabytí právní moci; bylo-li provádění stavby zahájeno v době jeho platnosti, prodlužuje se doba platnosti povolení na 10 let ode dne právní moci povolení nebo rozhodnutí o prodloužení jeho platnosti.",
+   "Povolení stavby platí 2 roky, nejdéle 4 roky ode dne nabytí právní moci; bylo-li provádění stavby zahájeno v době jeho platnosti, prodlužuje se doba platnosti povolení na 15 let ode dne právní moci povolení nebo rozhodnutí o prodloužení jeho platnosti."
+  ],
+  "note": ""
+ },
+ {
+  "id": "A88",
+  "d": [
+   "Změna záměru oproti dokumentaci pro provádění stavby odsouhlasené technickým dozorem stavebníka.",
+   "Nepodstatná odchylka od ověřené projektové dokumentace, při níž se nemění půdorysný ani výškový rozsah stavby."
+  ],
+  "note": ""
+ },
+ {
+  "id": "A89",
+  "d": [
+   "Ne, změnu záměru před dokončením postačí předem oznámit stavebnímu úřadu",
+   "Ano, ale jen pokud se změna dotýká práv účastníků řízení nebo chráněných veřejných zájmů"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A90",
+  "d": [
+   "veškeré odchylky, které předem odsouhlasil projektant v rámci dozoru projektanta",
+   "odchylky, při kterých se mění způsob užívání stavby, avšak nezasahuje se do nosných konstrukcí"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A91",
+  "d": [
+   "Ano, kolaudační rozhodnutí vyžadují všechny stavby, které vyžadují povolení",
+   "Ne, kolaudační rozhodnutí nevyžadují pouze jednoduché stavby pro bydlení a rodinnou rekreaci"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A92",
+  "d": [
+   "Stavba se při kolaudaci posuzuje podle technických norem, které platí v době podání žádosti o vydání kolaudačního rozhodnutí.",
+   "Stavba se při kolaudaci posuzuje podle technických norem, které platily v době, kdy bylo zahájeno provádění stavby."
+  ],
+  "note": ""
+ },
+ {
+  "id": "A93",
+  "d": [
+   "Musí, závěrečná kontrolní prohlídka je povinnou součástí každého kolaudačního řízení.",
+   "Nemusí, požádá-li stavebník v žádosti o kolaudaci o upuštění od ní."
+  ],
+  "note": ""
+ },
+ {
+  "id": "A94",
+  "d": [
+   "Ne, kolaudační rozhodnutí lze vydat vždy pouze pro celou stavbu, a to až po jejím úplném dokončení",
+   "Ano, ale pouze tehdy, byla-li tato část stavby předem ověřena zkušebním provozem nařízeným stavebním úřadem"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A95",
+  "d": [
+   "zkušebním provozem se ověřuje soulad stavby s jejím povolením",
+   "zkušebním provozem se povoluje předčasné užívání nedokončené stavby"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A96",
+  "d": [
+   "pokud o změnu v užívání stavby nepožádá stavebník, ale vlastník stavby",
+   "pokud by změna v užívání stavby vyžadovala závazné stanovisko dotčeného orgánu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A97",
+  "d": [
+   "stavbu, která se nachází v památkové zóně nebo obsahuje azbest",
+   "stavbu, která obsahuje azbest nebo jiné nebezpečné látky"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A98",
+  "d": [
+   "Ne, nevyžadují nikdy",
+   "Ano, pokud jsou v památkové zóně"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A99",
+  "d": [
+   "Ne, stavební úřad v takovém případě prodlouží platnost povolení",
+   "Ano, ale pouze tehdy, jde-li o dočasnou stavbu"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A100",
+  "d": [
+   "Ne, stavbu provedenou bez povolení nebo v rozporu s ním stavební úřad vždy nařídí odstranit, a to bez možnosti dodatečného povolení",
+   "Ano, stavební úřad ji dodatečně povolí z moci úřední, pokud stavba splňuje požadavky na výstavbu a neodporuje veřejným zájmům"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A101",
+  "d": [
+   "Ne, odstranění lze nařídit pouze u stavby, která vyžaduje povolení",
+   "Ano, pokud o to požádá vlastník sousedního pozemku nebo sousední stavby"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A102",
+  "d": [
+   "stavbyvedoucí, a je-li to nezbytné též zhotovitel; stavebník se kontroly účastnit nemusí",
+   "vlastník stavby, a je-li to nezbytné též vlastníci sousedních pozemků a staveb, které mohou být dotčeny"
+  ],
+  "note": ""
+ },
+ {
+  "id": "A103",
+  "d": [
+   "pouze na základě provedené kontroly, při níž zjistil závady ohrožující život nebo zdraví osob",
+   "pouze na návrh vlastníka sousední stavby, jehož práva jsou nedostatečnou údržbou stavby přímo dotčena"
+  ],
+  "note": ""
+ }
 ]

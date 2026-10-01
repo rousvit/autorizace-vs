@@ -15978,7 +15978,68 @@
 "short": "nařízení o obsahových náplních živností",
 "title": "Nařízení vlády č. 278/2008 Sb., o obsahových náplních jednotlivých živností",
 "okruhy": "F",
-"units": {},
+"units": {
+"row:p2-provadeni-staveb": {
+"label": "Příloha č. 2 – živnost vázaná",
+"heading": "Provádění staveb, jejich změn a odstraňování",
+"parts": [
+[
+"text",
+"",
+1,
+"Provádění stavebních a montážních prací při novostavbách, změnách dokončených staveb (nástavby, přístavby, stavební úpravy), údržbě staveb a jejich odstraňování podle stavebního zákona, včetně vedení realizace staveb a jejich změn."
+],
+[
+"text",
+"",
+1,
+"Při provádění uvedených stavebních prací mohou být vykonány i činnosti související s realizací staveb, které jsou předmětem živností řemeslných, případně živnosti volné."
+]
+]
+},
+"row:p4-70": {
+"label": "Příloha č. 4 – živnost volná, obor činnosti č. 70",
+"heading": "70. Služby v oblasti administrativní správy a služby organizačně hospodářské povahy",
+"parts": [
+[
+"text",
+"",
+1,
+"Služby v oblasti administrativní správy, zejména sekretářské a podobné služby."
+],
+[
+"text",
+"",
+1,
+"Služby organizačně hospodářské povahy, zejména poskytování úvěrů a půjček nebankovními subjekty z vlastních zdrojů (například pro podnikatelské účely), odkup pohledávek, přebírání závazků a jejich úhrada, postoupení pohledávek, operace směřující k řešení platební neschopnosti, poskytování ručení za bankovní úvěry nebankovními subjekty, vypořádání mezipodnikových závazků a pohledávek."
+],
+[
+"text",
+"",
+1,
+"Poskytování služeb při výkonu zadavatelských činností pro zadávání veřejných zakázek a další služby obdobné povahy."
+],
+[
+"text",
+"",
+1,
+"Technická činnost, jejímž obsahem je výkon technického dozoru, včetně provádění příslušných záznamů ve stavebních denících, spolupráce s autorským dozorem projektanta a zástupci budoucích uživatelů a provozovatelů staveb a další související činnosti."
+],
+[
+"text",
+"",
+1,
+"Poskytování certifikačních služeb v oblasti elektronického podpisu (to je plnění funkce důvěryhodné třetí strany při elektronické komunikaci s využitím elektronického podpisu, vydávání certifikátů, které spojují data pro ověřování elektronického podpisu s podepisující osobou a umožňují ověřit její totožnost, uchovávání certifikátů, zneplatnění certifikátů, provozování veřejně přístupného seznamu vydaných certifikátů a seznamu certifikátů, které byly zneplatněny, vedení dokumentace o vydaných certifikátech, zajišťování provozu bezpečných systémů a nástrojů elektronického podpisu a bezpečnosti postupů, které tyto systémy a nástroje podporují a podobně)."
+],
+[
+"text",
+"",
+1,
+"Certifikace systémů řízení jakosti a ověřování odborné způsobilosti personálu."
+]
+]
+}
+},
 "code": "278/2008 Sb.",
 "zneni": "2026-09-10",
 "typZneni": "AKTUALNI",

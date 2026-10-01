@@ -1,0 +1,9 @@
+[
+  {
+    "id": "A51",
+    "i": 0,
+    "problem": "POSSIBLY_CORRECT",
+    "reason": "§ 161 odst. 2 SZ: u stavby financované z veřejných prostředků, kterou provádí stavební podnikatel, musí TDS vykonávat fyzická osoba oprávněná podle autorizačního zákona, tedy v tomto častém případě je TDS fakticky vyhrazen autorizovaným osobám stejně jako vybrané činnosti podle § 155 SZ; navíc § 17 písm. j), § 18 písm. k) a § 19 písm. f) autorizačního zákona uvádějí TDS mezi 'vybranými a dalšími odbornými činnostmi'. Znalý uchazeč může tuto variantu obhajovat jako věcně správnou pro zvláštní případ. Náhrada nemá oporu v žádném ustanovení: § 161 odst. 2 se na svépomoc nevztahuje a u svépomoci se podle § 159 odst. 2 zajišťuje stavební dozor, který nevyžaduje autorizaci (§ 165 odst. 1).",
+    "replacement": "Ano, u staveb prováděných svépomocí je výkon technického dozoru stavebníka vybranou činností"
+  }
+]
